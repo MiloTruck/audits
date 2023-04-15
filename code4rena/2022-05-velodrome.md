@@ -6,7 +6,7 @@ The code under review can be found in [2022-05-velodrome](https://github.com/cod
 
 | ID | Description | Severity |
 | - | - | - |
-| [M-01](https://github.com/MiloTruck/audits/blob/main/code4rena/2022-05-velodrome.md#m-01-bribesol-is-not-meant-to-handle-fee-on-transfer-tokens) | `Bribe.sol` is not meant to handle fee-on-transfer tokens | Medium |
+| [M-01](#m-01-bribesol-is-not-meant-to-handle-fee-on-transfer-tokens) | `Bribe.sol` is not meant to handle fee-on-transfer tokens | Medium |
 
 # [M-01] `Bribe.sol` is not meant to handle fee-on-transfer tokens
 

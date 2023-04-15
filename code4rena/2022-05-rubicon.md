@@ -6,9 +6,9 @@ The code under review can be found in [2022-05-rubicon](https://github.com/code-
 
 | ID | Description | Severity |
 | - | - | - |
-| [H-01](https://github.com/MiloTruck/audits/blob/main/code4rena/2022-05-rubicon.md#h-01-first-depositor-can-break-minting-of-shares) | First depositor can break minting of shares | High |
-| [M-01](https://github.com/MiloTruck/audits/blob/main/code4rena/2022-05-rubicon.md#m-01-strategistbootyclaim-is-vulnerable-to-re-entrancy) | `strategistBootyClaim()` is vulnerable to re-entrancy | Medium |
-| [M-02](https://github.com/MiloTruck/audits/blob/main/code4rena/2022-05-rubicon.md#m-02-strategists-can-drain-all-tokens-in-liquidity-pools) | Strategists can drain all tokens in liquidity pools | Medium |
+| [H-01](#h-01-first-depositor-can-break-minting-of-shares) | First depositor can break minting of shares | High |
+| [M-01](#m-01-strategistbootyclaim-is-vulnerable-to-re-entrancy) | `strategistBootyClaim()` is vulnerable to re-entrancy | Medium |
+| [M-02](#m-02-strategists-can-drain-all-tokens-in-liquidity-pools) | Strategists can drain all tokens in liquidity pools | Medium |
 
 # [H-01] First depositor can break minting of shares
 

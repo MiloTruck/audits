@@ -6,9 +6,9 @@ The code under review can be found in [2022-09-nouns-builder](https://github.com
 
 | ID | Description | Severity |
 | - | - | - |
-| [M-01](https://github.com/MiloTruck/audits/blob/main/code4rena/2022-09-nouns-builder.md#m-01-possible-for-funds-to-get-stuck-in-the-auction-contract) | Possible for funds to get stuck in the Auction contract | Medium |
-| [M-02](https://github.com/MiloTruck/audits/blob/main/code4rena/2022-09-nouns-builder.md#m-02-founder-percentage-larger-than-255-will-break-minting-of-tokens) | Founder percentage larger than 255 will break minting of tokens | Medium |
-| [M-03](https://github.com/MiloTruck/audits/blob/main/code4rena/2022-09-nouns-builder.md#m-03-founders-might-receive-less-tokens-than-their-specified-percentage-of-token-ownership) | Founders might receive less tokens than their specified percentage of token ownership | Medium |
+| [M-01](#m-01-possible-for-funds-to-get-stuck-in-the-auction-contract) | Possible for funds to get stuck in the Auction contract | Medium |
+| [M-02](#m-02-founder-percentage-larger-than-255-will-break-minting-of-tokens) | Founder percentage larger than 255 will break minting of tokens | Medium |
+| [M-03](#m-03-founders-might-receive-less-tokens-than-their-specified-percentage-of-token-ownership) | Founders might receive less tokens than their specified percentage of token ownership | Medium |
 
 # [M-01] Possible for funds to get stuck in the Auction contract
 
