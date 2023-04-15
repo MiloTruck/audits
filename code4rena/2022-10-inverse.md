@@ -2,11 +2,11 @@
 
 The code under review can be found in [2022-10-inverse](https://github.com/code-423n4/2022-10-inverse).
 
-## Findings SUmmary
+## Findings Summary
 
 | ID | Description | Severity |
 | - | - | - |
-| [M-01]() | Users can avoid paying their DBR deficit | Medium |
+| [M-01](#m-01-users-can-avoid-paying-their-dbr-deficit) | Users can avoid paying their DBR deficit | Medium |
 
 # [M-01] Users can avoid paying their DBR deficit
 
