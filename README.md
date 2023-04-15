@@ -10,4 +10,5 @@ Collection of my security audits and findings from audit contests.
 - [Rigor Protocol](/code4rena/2022-08-rigor.md)
 - [Nouns Builder](/code4rena/2022-09-nouns-builder.md)
 - [VTVL](/code4rena/2022-09-vtvl.md)
+- [Blur Exchange](/code4rena/2022-10-blur.md)
 - [Wenwin](/code4rena/2023-03-wenwin.md)
