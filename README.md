@@ -3,6 +3,7 @@
 Collection of my security audits and findings from audit contests.
 
 ## Code4rena
+2022
 - [Cally](/code4rena/2022-05-cally.md)
 - [Rubicon](/code4rena/2022-05-rubicon.md)
 - [Velodrome Finance](/code4rena/2022-05-velodrome.md)
@@ -13,4 +14,6 @@ Collection of my security audits and findings from audit contests.
 - [Blur Exchange](/code4rena/2022-10-blur.md)
 - [Trader Joe v2](/code4rena/2022-10-traderjoe.md)
 - [Inverse Finance](/code4rena/2022-10-inverse.md)
+
+2023
 - [Wenwin](/code4rena/2023-03-wenwin.md)
