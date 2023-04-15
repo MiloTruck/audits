@@ -12,4 +12,5 @@ Collection of my security audits and findings from audit contests.
 - [VTVL](/code4rena/2022-09-vtvl.md)
 - [Blur Exchange](/code4rena/2022-10-blur.md)
 - [Trader Joe v2](/code4rena/2022-10-traderjoe.md)
+- [Inverse Finance](/code4rena/2022-10-inverse.md)
 - [Wenwin](/code4rena/2023-03-wenwin.md)
