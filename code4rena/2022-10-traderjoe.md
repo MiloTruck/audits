@@ -6,7 +6,7 @@ The code under review can be found in [2022-10-tradejoe](https://github.com/code
 
 | ID | Description | Severity |
 | - | - | - |
-| [M-01](#m-01-bribesol-is-not-meant-to-handle-fee-on-transfer-tokens) | Incorrect parameters for `_beforeTokenTransfer()` hook | Medium |
+| [M-01](#m-01-incorrect-parameters-for-_beforetokentransfer-hook) | Incorrect parameters for `_beforeTokenTransfer()` hook | Medium |
 
 # [M-01] Incorrect parameters for `_beforeTokenTransfer()` hook
 
