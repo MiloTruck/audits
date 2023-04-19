@@ -4,6 +4,8 @@ Collection of my security audits and findings from audit contests.
 
 ## Code4rena
 
+_Note: Overall payout includes contests without any valid high or medium severity findings_
+
 ### 2022
 | Contest | Findings | Ranking | Payout | Links |
 | - | - | - | - | - |
