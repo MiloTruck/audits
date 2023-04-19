@@ -10,12 +10,12 @@ The code under review can be found in [2022-09-nouns-builder](https://github.com
 | [M-02](#m-02-founder-percentage-larger-than-255-will-break-minting-of-tokens) | Founder percentage larger than 255 will break minting of tokens | Medium |
 | [M-03](#m-03-founders-might-receive-less-tokens-than-their-specified-percentage-of-token-ownership) | Founders might receive less tokens than their specified percentage of token ownership | Medium |
 
-# [M-01] Possible for funds to get stuck in the Auction contract
+## [M-01] Possible for funds to get stuck in the Auction contract
 
-## Impact
+### Impact
 For projects with a 0% founder percentage ownership, it is possible for the highest bidder of the first auction to not receive the minted token, and funds from the first auction to be stuck in the contract.
 
-## Vulnerability Details
+### Vulnerability Details
 
 In `Auction.sol`, the contract determines if the first auction has been created using the statement `auction.tokenId == 0`, as shown below:
 ```solidity
@@ -58,19 +58,19 @@ For example:
 
 In this scenario, funds from the first auction would be unretrievable as the `Auction` contract does not have a function to send any amount of ETH to an address. Furthermore, as `settleAuction()` was not called, the highest bidder would not receive the token of the first auction.
 
-## Proof of Concept
+### Proof of Concept
 
 The test in [this gist](https://gist.github.com/MiloTruck/f0329c57864951cda55ffff1bda380fc) demonstrates the above.
 
-## Recommended Mitigation Steps
+### Recommended Mitigation Steps
 At line 248, instead of checking `auction.tokenId == 0` to determine if the first auction has been created, check if `auction.startTime == 0` instead.
 
-# [M-02] Founder percentage larger than 255 will break minting of tokens
+## [M-02] Founder percentage larger than 255 will break minting of tokens
 
-## Impact
+### Impact
 If the `Token` contract is deployed with a founder's ownership percentage larger than 255, the minting of tokens will break.
 
-## Vulnerability Details
+### Vulnerability Details
 In `Token.sol:80-120`, the function `_addFounders()` handles the addition of each founder as shown below:
 ```solidity
  80:    for (uint256 i; i < numFounders; ++i) {
@@ -147,19 +147,19 @@ Since `_isForFounder()` will always return true for any `tokenId`, the `do-while
 
 Additionally, note that setting `ownershipPct` to `100` will also break minting, but `totalFounderOwnership()` would return `100` as downcasting to `uint8` would not change the value.
 
-## Proof of Concept
+### Proof of Concept
 
 This [test](https://gist.github.com/MiloTruck/7f9368bc1dd274ba278e1c6113e70a28) demonstrates the above.
 
-## Recommended Mitigation Steps
+### Recommended Mitigation Steps
 Store the value of `uint8(founderPct)` in a local variable, and use that variable throughout the entire `_addFounders()` function. Alternatively, use `SafeCast.toUint8()` instead of `uint8()`.
 
-# [M-03] Founders might receive less tokens than their specified percentage of token ownership
+## [M-03] Founders might receive less tokens than their specified percentage of token ownership
 
-## Impact
+### Impact
 Due to how the allocation of tokens to founders is handled in `Token.sol`, projects with a certain sequence of founder percentage ownership may cause founders to receive less tokens than intended.
 
-## Vulnerability Details
+### Vulnerability Details
 In the `Token` contract, before any token is minted, its `_tokenId` is passed into `_isForFounder()` to determine if the token belongs to a founder, as shown below:
 ```solidity
 177:    function _isForFounder(uint256 _tokenId) private returns (bool) {
@@ -229,7 +229,7 @@ From the logic presented above, it is possible for a founder to be assigned to a
 1. At line 118, the `% 100` statement used to ensure `baseTokenId` is smaller than `100` is never applied
 2. `_getNextTokenId()` will always return the next `_tokenId` available
 
-### Issue 1
+#### Issue 1
 Due to the syntax error at line 118, `baseTokenId` is never reset to below `100` with the `%` operator. Thus, if enough founders with a percentage ownership are added, `baseTokenId` would eventually exceed `99`.
 
 For example, if founders are added in sequence with the following percentages:
@@ -240,7 +240,7 @@ The last founder would receive less tokens than intended, as he is assigned to `
 
 `test_Issue1()` in [this gist](https://gist.github.com/MiloTruck/57ffb59b61365826c2f2fd591e50b2ee) demonstrates this.
 
-### Issue 2
+#### Issue 2
 `_getNextTokenId()` does not contain any checks to ensure that the `_tokenId` returned is less than `100`. Thus, if `baseTokenId` equals to `99`, but `tokenRecipient[99]` already corresponds to another founder, `_getNextTokenId()` would automatically return `100`, which is invalid.
 
 The following sequence of percentages demonstrates this:
@@ -251,7 +251,7 @@ The last founder would receive less tokens than intended, as he is assigned to `
 
 `test_Issue2()` in [this gist](https://gist.github.com/MiloTruck/57ffb59b61365826c2f2fd591e50b2ee) demonstrates this.
 
-## Recommended Mitigation Steps
+### Recommended Mitigation Steps
 For issue 1, rewrite line 118 in `Token.sol` to the following:
 ```solidity
 baseTokenId = (baseTokenId + schedule) % 100;

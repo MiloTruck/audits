@@ -8,7 +8,7 @@ The code under review can be found in [2022-10-tradejoe](https://github.com/code
 | - | - | - |
 | [M-01](#m-01-incorrect-parameters-for-_beforetokentransfer-hook) | Incorrect parameters for `_beforeTokenTransfer()` hook | Medium |
 
-# [M-01] Incorrect parameters for `_beforeTokenTransfer()` hook
+## [M-01] Incorrect parameters for `_beforeTokenTransfer()` hook
 
 In `LBToken.sol, the `_beforeTokenTransfer()` hook has the following parameters:
 ```solidity

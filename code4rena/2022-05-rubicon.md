@@ -10,12 +10,12 @@ The code under review can be found in [2022-05-rubicon](https://github.com/code-
 | [M-01](#m-01-strategistbootyclaim-is-vulnerable-to-re-entrancy) | `strategistBootyClaim()` is vulnerable to re-entrancy | Medium |
 | [M-02](#m-02-strategists-can-drain-all-tokens-in-liquidity-pools) | Strategists can drain all tokens in liquidity pools | Medium |
 
-# [H-01] First depositor can break minting of shares
+## [H-01] First depositor can break minting of shares
 
-## Impact
+### Impact
 The attack vector and impact is the same as [TOB-YEARN-003](https://github.com/yearn/yearn-security/blob/master/audits/20210719_ToB_yearn_vaultsv2/ToB_-_Yearn_Vault_v_2_Smart_Contracts_Audit_Report.pdf), where users may not receive shares in exchange for their deposits if the total asset amount has been manipulated through a large “donation”.
 
-## Vulnerability Details
+### Vulnerability Details
 In `BathToken.sol:569-571`, the allocation of shares is calculated as follows:
 ```js
 (totalSupply == 0) ? shares = assets : shares = (
@@ -33,7 +33,7 @@ An early attacker can exploit this by:
 
 To avoid minting 0 shares, subsequent depositors have to deposit equal to or more than the amount transferred by the attacker. Otherwise, their deposits accrue to the attacker who holds the only share.
 
-## Proof of Concept
+### Proof of Concept
 
 ```solidity
 it("Victim receives 0 shares", async () => {
@@ -80,17 +80,17 @@ it("Victim receives 0 shares", async () => {
 });
 ```
 
-## Recommended Mitigation Steps
+### Recommended Mitigation Steps
 * [Uniswap V2 solved this problem by sending the first 1000 LP tokens to the zero address](https://github.com/Uniswap/v2-core/blob/master/contracts/UniswapV2Pair.sol#L119-L124). The same can be done in this case i.e. when `totalSupply() == 0`, send the first min liquidity LP tokens to the zero address to enable share dilution.
 * In `_deposit()`, ensure the number of shares to be minted is non-zero: 
 `require(shares != 0, "No shares minted");`
 
-# [M-01] `strategistBootyClaim()` is vulnerable to re-entrancy
+## [M-01] `strategistBootyClaim()` is vulnerable to re-entrancy
 
-## Impact
+### Impact
 If a strategist calls `strategistBootyClaim()` on an `asset` or `quote` that implements ERC777 tokens, the function is vulnerable to re-entrancy. This allows strategists to claim more rewards than allocated to them based on their quantity of fills.
 
-## Proof of Concept
+### Proof of Concept
 A strategist calls `strategistBootyClaim()`, with `asset` or `quote` as an ERC777 token that he has completed a fill for:
 * When the function calls `IERC20(asset).transfer(msg.sender, booty)`, ERC777 will call the `_callTokensReceived()` hook.
 * The strategist calls `strategistBootyClaim()` in `_callTokensReceived()` with the same parameters.
@@ -135,19 +135,19 @@ function strategistBootyClaim(address asset, address quote)
 }
 ```
 
-## Recommended Mitigation Steps
+### Recommended Mitigation Steps
 * Use the `nonReentrancy` modifier on `strategistBootyClaim()` to prevent re-entrancy attacks: 
 [Openzeppelin/ReentrancyGuard.sol](https://github.com/OpenZeppelin/openzeppelin-contracts/blob/master/contracts/security/ReentrancyGuard.sol)
 * Adhere to the Check-Effects-Interactions pattern by transferring tokens to `msg.sender` at the end of the function.
 
-# [M-02] Strategists can drain all tokens in liquidity pools
+## [M-02] Strategists can drain all tokens in liquidity pools
 
-## Impact
+### Impact
 By calling the `tailOff()` function in `BathPair.sol`, any approved strategist has the ability to completely drain tokens from any liquidity pool.
 
 Even if this is the intended functionality, this potential risk should be made known to users.
 
-## Vulnerability Details
+### Vulnerability Details
 In `BathPair.sol`, `tailOff()` forwards calls to `rebalance()` in `BathToken.sol` as follows:
 ```js
 function tailOff(
@@ -186,7 +186,7 @@ An approved strategist could call `tailOff()` with the following parameters:
 * `amount` - The amount of underlying token to drain
 * `hurdle` and `_poolFee` - Any valid `uint`
 
-## Proof of Concept
+### Proof of Concept
 
 ```js
 it("Strategist can drain any liquidity pool", async () => {
@@ -217,5 +217,5 @@ it("Strategist can drain any liquidity pool", async () => {
 });
 ```
 
-## Recommended Mitigation Steps
+### Recommended Mitigation Steps
 Maintain a whitelist of external pools `tailOff()` can be used to send tokens to, and revert all other non-listed addresses.

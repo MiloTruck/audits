@@ -8,12 +8,12 @@ The code under review can be found in [2022-05-velodrome](https://github.com/cod
 | - | - | - |
 | [M-01](#m-01-bribesol-is-not-meant-to-handle-fee-on-transfer-tokens) | `Bribe.sol` is not meant to handle fee-on-transfer tokens | Medium |
 
-# [M-01] `Bribe.sol` is not meant to handle fee-on-transfer tokens
+## [M-01] `Bribe.sol` is not meant to handle fee-on-transfer tokens
 
-## Impact
+### Impact
 Should a fee-on-transfer token be added as a reward token and deposited, the tokens will be locked in the `Bribe` contract. Voters will be unable to withdraw their rewards.
 
-## Vulnerability Details
+### Vulnerability Details
 Tokens are deposited into the `Bribe` contract using `notifyRewardAmount()`, where `amount` of tokens are transferred, then added directly to `tokenRewardsPerEpoch[token][adjustedTstamp]`:
 ```js
   _safeTransferFrom(token, msg.sender, address(this), amount);
@@ -42,7 +42,7 @@ If `token` happens to be a fee-on-transfer token, `deliverReward()` will always 
   * However, the contract only contains 98 tokens
   * `deliverReward()` reverts
 
-## Proof of Concept
+### Proof of Concept
 
 The following test, which implements a [MockERC20 with fee-on-transfer](https://gist.github.com/MiloTruck/6fe0a13c4d08689b8be8a55b9b14e7e1), demonstrates this: 
 ```js
@@ -101,14 +101,14 @@ function testFailFeeOnTransferToken() public {
 }
 ```
 
-## Additional Impact
+### Additional Impact
 On a larger scale, a malicious attacker could temporarily DOS any `Gauge` contract. This can be done by:
 1. Depositing a fee-on-transfer token into its respective `Bribe` contract, using `notifyRewardAmount()`, and adding it as a reward token.
 2. This would cause `deliverBribes()` to fail whenever it is called, thus no one would be able to withdraw any reward tokens from the `Gauge` contract.
 
 The only way to undo the DOS would be to call `swapOutBribeRewardToken()` and swap out the fee-on-transfer token for another valid token.
 
-## Recommended Mitigation
+### Recommended Mitigation
 * The amount of tokens received should be added to `epochRewards` and stored in `tokenRewardsPerEpoch[token][adjustedTstamp]`, instead of the amount stated for transfer. For example:
 ```js
   uint256 _before = IERC20(token).balanceOf(address(this));

@@ -8,12 +8,12 @@ The code under review can be found in [2022-10-inverse](https://github.com/code-
 | - | - | - |
 | [M-01](#m-01-users-can-avoid-paying-their-dbr-deficit) | Users can avoid paying their DBR deficit | Medium |
 
-# [M-01] Users can avoid paying their DBR deficit
+## [M-01] Users can avoid paying their DBR deficit
 
-## Impact
+### Impact
 In both `DolaBorrowingRights` and `Market` contracts, the function `forceReplenish()` in `Market` is the only way to ensure a user pays his DBR deficit. Thus, if users repay their debt before `forceReplenish()` is ever called, they will avoid paying their DBR deficit.
 
-## Vulnerability Details
+### Vulnerability Details
 
 The function `forceReplenish()` in the `Market` contract is as shown:
 ```solidity
@@ -41,5 +41,5 @@ debts[user] += replenishmentCost;
 
 However, as the contract relies on providing incentives for other user to call this function, it is not guranteed that this function will ever be called before a user fully repays their debt and withdraws all their collateral. After that, calling `forceReplenish()` to impose DOLA debt would have no effect on the user as no collateral is at stake for him.
 
-## Recommended Mitigation Steps
+### Recommended Mitigation Steps
 In the `withdrawInternal()` function, call `forceReplenish()` before calculating the amount of collateral users are able to withdraw. This would force users to pay their DBR deficit before withdrawing their collateral.

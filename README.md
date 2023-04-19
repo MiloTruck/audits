@@ -3,6 +3,7 @@
 Collection of my security audits and findings from audit contests.
 
 ## Code4rena
+
 2022
 - [Cally](/code4rena/2022-05-cally.md)
 - [Rubicon](/code4rena/2022-05-rubicon.md)
