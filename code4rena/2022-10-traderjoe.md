@@ -31,4 +31,4 @@ src/LBToken.sol:
 ```
 This is incorrect as the positions of `address(0)` and `_account` should be swapped.
 
-Although this currently does not have any impact, it could potentially cause bugs to occur should `_beforeTokenTransfer()` overidden in future contracts.
+Although this currently does not have any impact, it could potentially cause bugs to occur should `_beforeTokenTransfer()` be overidden in future contracts.
