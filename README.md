@@ -6,6 +6,14 @@ Collection of my security audits and findings from audit contests.
 
 _Note: Overall payout includes contests without any valid high or medium severity findings_
 
+### 2023
+| Contest | Findings | Ranking | Payout | Links |
+| - | - | - | - | - |
+| [Ethos Reserve](/code4rena/2023-02-ethos.md) | 1 M | #49 | $142.85 | [Leaderboard](https://code4rena.com/contests/2023-02-ethos-reserve-contest) |
+| [Wenwin](/code4rena/2023-03-wenwin.md) | 1 M | #18 | $397.60 | [Leaderboard](https://code4rena.com/contests/2023-03-wenwin-contest) |
+| [Asymmetry Finance](/code4rena/2023-03-asymmetry.md) |5 H, 2 M | #29 | $224.11 | [Leaderboard](https://code4rena.com/contests/2023-03-asymmetry-contest) |
+| Overall | 5 H, 4 M |  | $764.56 |  |
+
 ### 2022
 | Contest | Findings | Ranking | Payout | Links |
 | - | - | - | - | - |
@@ -20,12 +28,4 @@ _Note: Overall payout includes contests without any valid high or medium severit
 | [Trader Joe v2](/code4rena/2022-10-traderjoe.md) | 1 M | #14 | $614.74 | [Leaderboard](https://code4rena.com/contests/2022-10-trader-joe-v2-contest) |
 | [Inverse Finance](/code4rena/2022-10-inverse.md) | 1 M | #39 | $156.27 | [Leaderboard](https://code4rena.com/contests/2022-10-inverse-finance-contest) |
 | Overall | 2 H, 15 M | #168 | $7,117.64 |  |
-
-### 2023
-| Contest | Findings | Ranking | Payout | Links |
-| - | - | - | - | - |
-| [Ethos Reserve](/code4rena/2023-02-ethos.md) | 1 M | #49 | $142.85 | [Leaderboard](https://code4rena.com/contests/2023-02-ethos-reserve-contest) |
-| [Wenwin](/code4rena/2023-03-wenwin.md) | 1 M | #18 | $397.60 | [Leaderboard](https://code4rena.com/contests/2023-03-wenwin-contest) |
-| [Asymmetry Finance](/code4rena/2023-03-asymmetry.md) |5 H, 2 M | #29 | $224.11 | [Leaderboard](https://code4rena.com/contests/2023-03-asymmetry-contest) |
-| Overall | 5 H, 4 M |  | $764.56 |  |
 
