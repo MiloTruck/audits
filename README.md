@@ -27,5 +27,5 @@ _Note: Overall payout includes contests without any valid high or medium severit
 | [Ethos Reserve](/code4rena/2023-02-ethos.md) | 1 M | #49 | $142.85 | [Leaderboard](https://code4rena.com/contests/2023-02-ethos-reserve-contest) |
 | [Wenwin](/code4rena/2023-03-wenwin.md) | 1 M | #18 | $397.60 | [Leaderboard](https://code4rena.com/contests/2023-03-wenwin-contest) |
 | [Asymmetry Finance](/code4rena/2023-03-asymmetry.md) |5 H, 2 M | #29 | $224.11 | [Leaderboard](https://code4rena.com/contests/2023-03-asymmetry-contest) |
-| Overall | 5 H, 3 M |  | $764.56 |  |
+| Overall | 5 H, 4 M |  | $764.56 |  |
 
