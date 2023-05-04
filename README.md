@@ -1,5 +1,7 @@
 # MiloTruck's security audits and findings
 
+This repository contains my portfolio of security audits and bug bounty findings.
+
 ## Summary
 
 | Platform | Findings | Payout |
