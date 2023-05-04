@@ -1,6 +1,13 @@
 # MiloTruck's security audits and findings
 
-Collection of my security audits and findings from audit contests.
+## Summary
+
+| Platform | Findings | Payout |
+| - | - | - |
+| [Code4rena](#code4rena) | 7 High, 19 Medium | $7882.20 |
+| [Sherlock](#sherlock) | - | - |
+| [Immunefi](#immunefi) | - | $1000 |
+| Overall | 7 High, 19 Medium | $8882.20 |
 
 ## Code4rena
 
@@ -29,3 +36,10 @@ _Note: Overall payout includes contests without any valid high or medium severit
 | [Inverse Finance](/code4rena/2022-10-inverse.md) | 1 M | #39 | $156.27 | [Leaderboard](https://code4rena.com/contests/2022-10-inverse-finance-contest) |
 | Overall | 2 H, 15 M | #168 | $7,117.64 |  |
 
+## Sherlock
+
+To be updated.
+
+## Immunefi
+
+To be updated.
