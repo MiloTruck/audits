@@ -9,7 +9,6 @@ This repository contains my portfolio of security audits and bug bounty findings
 | [Code4rena](#code4rena) | 7 High, 19 Medium | $7882.20 |
 | [Sherlock](#sherlock) | - | - |
 | [Immunefi](#immunefi) | - | $1000 |
-| Overall | 7 High, 19 Medium | $8882.20 |
 
 ## Code4rena
 
