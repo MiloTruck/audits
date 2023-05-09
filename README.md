@@ -13,7 +13,8 @@ _Note: Overall payout includes contests without any valid high or medium severit
 | [Wenwin](/code4rena/2023-03-wenwin.md) | 1 M | #18 | $397.60 | [Leaderboard](https://code4rena.com/contests/2023-03-wenwin-contest) |
 | [Asymmetry Finance](/code4rena/2023-03-asymmetry.md) | 5 H, 2 M | #29 | $224.11 | [Leaderboard](https://code4rena.com/contests/2023-03-asymmetry-contest) |
 | [Caviar Private Pools](/code4rena/2023-04-caviar.md) | 1 M | #105 | $9.33 | [Leaderboard](https://code4rena.com/contests/2023-04-caviar-private-pools) |
-| Overall | 5 H, 5 M |  | $773.89 |  |
+| Contest 225 | 2 H, 2 M | #22 | $833.23 | [Leaderboard](https://code4rena.com/contests/2023-03-contest-225-contest) |
+| Overall | 7 H, 7 M |  | $1,607.12 |  |
 
 ### 2022
 | Contest | Findings | Ranking | Payout | Links |
