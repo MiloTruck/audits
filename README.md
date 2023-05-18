@@ -11,10 +11,10 @@ _Note: Overall payout includes contests without any valid high or medium severit
 | - | - | - | - | - |
 | [Ethos Reserve](/code4rena/2023-02-ethos.md) | 1 M | #49 | $142.85 | [Leaderboard](https://code4rena.com/contests/2023-02-ethos-reserve-contest) |
 | [Wenwin](/code4rena/2023-03-wenwin.md) | 1 M | #18 | $397.60 | [Leaderboard](https://code4rena.com/contests/2023-03-wenwin-contest) |
-| [Asymmetry Finance](/code4rena/2023-03-asymmetry.md) | 5 H, 2 M | #29 | $224.11 | [Leaderboard](https://code4rena.com/contests/2023-03-asymmetry-contest) |
-| [Caviar Private Pools](/code4rena/2023-04-caviar.md) | 1 M | #105 | $9.33 | [Leaderboard](https://code4rena.com/contests/2023-04-caviar-private-pools) |
-| Contest 225 | 2 H, 2 M | #22 | $833.23 | [Leaderboard](https://code4rena.com/contests/2023-03-contest-225-contest) |
 | Polynomial Protocol | 1 H, 2 M | #14 | $759.68 | [Leaderboard](https://code4rena.com/contests/2023-03-polynomial-protocol-contest) |
+| [Asymmetry Finance](/code4rena/2023-03-asymmetry.md) | 5 H, 2 M | #29 | $224.11 | [Leaderboard](https://code4rena.com/contests/2023-03-asymmetry-contest) |
+| Contest 225 | 2 H, 2 M | #22 | $833.23 | [Leaderboard](https://code4rena.com/contests/2023-03-contest-225-contest) |
+| [Caviar Private Pools](/code4rena/2023-04-caviar.md) | 1 M | #105 | $9.33 | [Leaderboard](https://code4rena.com/contests/2023-04-caviar-private-pools) |
 | Overall | 8 H, 9 M |  | $2,366.8 |  |
 
 ### 2022
