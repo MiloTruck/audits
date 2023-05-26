@@ -3,4 +3,4 @@ The code under review can be found in [2023-03-asymmetry](https://github.com/cod
 
 ## Findings Summary
 
-To be added once Code4rena releases the report.
+To be updated.
