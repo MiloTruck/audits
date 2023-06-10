@@ -14,6 +14,7 @@ This repository contains my portfolio of security audits and bug bounty findings
 | Contest 225 | 2 H, 2 M | #22 | $833.23 | [Leaderboard](https://code4rena.com/contests/2023-03-contest-225-contest) |
 | [Caviar Private Pools](/code4rena/2023-04-caviar.md) | 1 M | #105 | $9.33 | [Leaderboard](https://code4rena.com/contests/2023-04-caviar-private-pools) |
 | [Frankencoin](/code4rena/2023-04-frankencoin.md) | 2 M | #13 | $832.81 | [Leaderboard](https://code4rena.com/contests/2023-04-frankencoin) |
+| [EigenLayer](/code4rena/2023-04-eigenlayer.md) | 1 H, 1 M | #9 | $1,978.72 | [Leaderboard](https://code4rena.com/contests/2023-04-eigenlayer-contest) |
 | Overall | 8 H, 11 M |  | $3,199.61 |  |
 
 ### 2022
