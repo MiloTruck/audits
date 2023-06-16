@@ -38,8 +38,7 @@ This repository contains my portfolio of security audits and bug bounty findings
 | - | - | - | - | - |
 | [Teller V2](/sherlock/2023-03-teller.md) | 1 H, 5 M | #25 | $193.70 | [Contest Page](https://app.sherlock.xyz/audits/contests/62) |
 | [Footium](/sherlock/2023-04-footium.md) | 1 H, 1 M | #19 | $120.88 | [Contest Page](https://app.sherlock.xyz/audits/contests/71) |
-
-To be updated.
+| Overall | 2 H, 6 M | | $314.58 |  |
 
 ## Immunefi
 
