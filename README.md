@@ -46,3 +46,4 @@ This repository contains my portfolio of security audits and bug bounty findings
 | Protocol | Severity | Payout | Details |
 | - | - | - | - |
 | [GYSR](https://immunefi.com/bounty/gysr/) | Informational | 1,000 | [Write-up](/immunefi/gysr-I-01.md) |
+| Undisclosed | High | 15,000 |  |
