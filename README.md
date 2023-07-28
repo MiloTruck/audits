@@ -43,7 +43,6 @@ This repository contains my portfolio of security audits and bug bounty findings
 
 ## Immunefi
 
-| Protocol | Finding | Severity | Payout |
+| Protocol | Severity | Payout | Details |
 | - | - | - | - |
-| [GYSR](https://immunefi.com/bounty/gysr/) | [Precision loss in `unstake()` allows an attacker to steal other staker's tokens](/immunefi//gysr-I-01.md) | Informational | 1,000 |
-| Undisclosed |  | High | 15,000 |
+| [GYSR](https://immunefi.com/bounty/gysr/) | Informational | 1,000 | [Write-up](/immunefi/gysr-I-01.md) |
