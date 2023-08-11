@@ -4,6 +4,8 @@ This repository contains my portfolio of public security audits and bug bounty f
 
 ## Audit Contests
 
+My reports and results for all audit contests I have participated in can be found [here](/audit-contests.md).
+
 ### Stats
 
 - [Code4rena Profile](https://code4rena.com/@MiloTruck)
@@ -17,8 +19,6 @@ This repository contains my portfolio of public security audits and bug bounty f
 - [LUKSO Network: Blockchain Ecosystem, Account Abstraction](/code4rena/2023-06-lukso.md) - 1st place
 - [Chainlink CCIP: Cross-chain Messaging & Token Bridging]() - 8th place 
 - [EigenLayer: Liquid Staking Derivative](/code4rena/2023-04-eigenlayer.md) - 9th place
-
-My reports and results for all audit contests I have participated in can be found [here](/audit-contests.md).
 
 ## Bug Bounty
 
