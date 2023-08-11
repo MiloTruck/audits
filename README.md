@@ -12,7 +12,7 @@ My reports and results for all audit contests I have participated in can be foun
 - 16 High, 39 Medium severity vulnerabilities found
 - Ranked #9 on [Code4rena's 2023 leaderboard](https://code4rena.com/leaderboard)
 
-<img src="images/c4_ranking.jpg" width="900">
+<img src="images/c4_leaderboard.jpg" width="900">
 
 ### Highlights
 
