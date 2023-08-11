@@ -10,7 +10,7 @@ This repository contains my portfolio of public security audits and bug bounty f
 - 14 High, 33 Medium severity vulnerabilities found
 - Ranked #9 on [Code4rena's 2023 leaderboard](https://code4rena.com/leaderboard)
 
-<img src="images/c4_ranking.jpg" width="750">
+<img src="images/c4_ranking.jpg" width="900">
 
 ### Highlights
 
