@@ -25,7 +25,6 @@ To handle the change in votes when BELA is transferred from one address to anoth
 ```solidity
     function _transfer(address sender, address recipient, uint256 amount) internal override {
         ERC20._transfer(sender, recipient, amount);
-        // console2.log(sender, recipient, amount);
         _moveDelegates(sender, recipient, amount);
     }
 ```
@@ -87,7 +86,7 @@ This can be used to permanently prevent users who have deposited BELA into the V
 
 ## Recommendation
 
-In the Bela contract, `_delegate()` should transfer votes from the `sender` and `recipient`'s delegatees instead:
+In the BELA contract, `_delegate()` should transfer votes from the `sender` and `recipient`'s delegatees instead:
 
 ```diff
     function _transfer(address sender, address recipient, uint256 amount) internal override {
