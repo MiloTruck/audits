@@ -9,14 +9,15 @@ My reports and results for all audit contests I have participated in can be foun
 ### Stats
 
 - [Code4rena Profile](https://code4rena.com/@MiloTruck)
-- 16 High, 39 Medium severity vulnerabilities found
-- Ranked #9 on [Code4rena's 2023 leaderboard](https://code4rena.com/leaderboard)
+- 17 High, 42 Medium severity vulnerabilities found
+- Ranked #8 on [Code4rena's 2023 leaderboard](https://code4rena.com/leaderboard)
 
 <img src="images/c4_leaderboard.jpg" width="900">
 
 ### Highlights
 
 - [LUKSO Network: Blockchain Ecosystem, Account Abstraction](/code4rena/2023-06-lukso.md) - 1st place
+- [Arbitrum Security Council Elections: Governance](/code4rena/2023-08-arbitrum.md) - 1st place
 - [Chainlink CCIP: Cross-chain Messaging & Token Bridging]() - 8th place 
 - [EigenLayer: Liquid Staking Derivative](/code4rena/2023-04-eigenlayer.md) - 9th place
 
