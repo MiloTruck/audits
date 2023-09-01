@@ -1,10 +1,18 @@
-# MiloTruck's security audits and findings
+# MiloTruck's Blockchain Security Portfolio
 
-This repository contains my portfolio of public security audits and bug bounty findings.
+## About MiloTruck
+
+I'm an independent security researcher who specializes in smart contract audits. Having won multiple audit contests, I'm currently one of the top wardens on [Code4rena](https://code4rena.com/).
+
+For private audits or security consulting, please reach out to me on:
+- Twitter -  [*@milotruck*](https://twitter.com/milotruck) 
+- Discord - [*@milotruck*](https://discord.com/users/302259685560680460)
+
+You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or [Cantina](https://cantina.xyz/u/milotruck) to engage them as an intermediary.
 
 ## Audit Contests
 
-My reports and results for all audit contests I have participated in can be found [here](/audit-contests.md).
+Reports for all audit contests can be found [here](/audit-contests.md).
 
 ### Stats
 
@@ -16,16 +24,12 @@ My reports and results for all audit contests I have participated in can be foun
 
 ### Highlights
 
-- [LUKSO Network: Blockchain Ecosystem, Account Abstraction](/code4rena/2023-06-lukso.md) - 1st place
-- [Arbitrum Security Council Elections: Governance](/code4rena/2023-08-arbitrum.md) - 1st place
+- [LUKSO Network: Blockchain Ecosystem, Account Abstraction](/code4rena/2023-06-lukso.md) - 🥇1st place
+- [Arbitrum Security Council Elections: Governance](/code4rena/2023-08-arbitrum.md) - 🥇1st place
 - [Chainlink CCIP: Cross-chain Messaging & Token Bridging]() - 8th place 
 - [EigenLayer: Liquid Staking Derivative](/code4rena/2023-04-eigenlayer.md) - 9th place
 
 ## Bug Bounty
 
 - [Beluga Protocol: Permanent freezing of tokens by vote manipulation](/immunefi/beluga-C-01.md) - Critical
-- [GYSR: Theft of tokens through precision loss](/immunefi/gysr-I-01.md) - Informational
-
-## Contacts
-
-I am available for security consulting. Reach out to me on Twitter: [@milotruck](https://twitter.com/milotruck)
+- [GYSR: Theft of funds through precision loss](/immunefi/gysr-I-01.md) - Informational

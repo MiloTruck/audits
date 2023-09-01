@@ -33,7 +33,7 @@
 | [Inverse Finance](https://code4rena.com/contests/2022-10-inverse-finance-contest) | 1 M | #39 | $156.27 | Solidity |  [Report](/code4rena/2022-10-inverse.md) |
 | Overall | 2 H, 15 M | #168 | $7,117.64 | | |
 
-## Sherlock
+# Sherlock
 
 | Contest | Findings | Ranking | Payout | Language | Audit Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
