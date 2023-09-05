@@ -13,9 +13,10 @@
 | [Frankencoin](https://code4rena.com/contests/2023-04-frankencoin) | 2 M | #13 | $832.81 | Solidity |  [Report](/code4rena/2023-04-frankencoin.md) |
 | [EigenLayer](https://code4rena.com/contests/2023-04-eigenlayer-contest) | 1 H, 1 M | #9 | $1,978.72 | Solidity |  [Report](/code4rena/2023-04-eigenlayer.md) |
 | [Chainlink CCIP](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network) | 3 H | #8 | $6,300.97 | Solidity | |
-| [LUKSO](https://code4rena.com/contests/2023-06-lukso) | 6 M | #1 | $44,459.52 | Solidity | [Report](/code4rena/2023-06-lukso.md) |
-| [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | 1 H, 3 M | #1 | $15,482.70 | Solidity | [Report](/code4rena/2023-08-arbitrum.md) |
-| Overall | 13 H, 21 M | | $71,421.52 | | |
+| [LUKSO](https://code4rena.com/contests/2023-06-lukso) | 6 M | #1 | $44,459.52 | Solidity |  |
+| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | 8 M | #1 |  | Solidity |  |
+| [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | 1 H, 3 M | #1 | $15,482.70 | Solidity | |
+| Overall | 13 H, 29 M | | $71,421.52 | | |
 
 ## 2022
 
