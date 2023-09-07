@@ -19,8 +19,6 @@ Reports for all audit contests can be found [here](/audit-contests.md).
 - [LUKSO Network: Blockchain Ecosystem, Account Abstraction](https://code4rena.com/contests/2023-06-lukso) - 🥇1st place
 - [Arbitrum Security Council Elections: Governance](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) - 🥇1st place
 - [Lens Protocol V2: Social Network](https://code4rena.com/contests/2023-07-lens-protocol-v2) - 🥇1st place
-- [Chainlink CCIP: Cross-chain Messaging & Token Bridging](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network) - 8th place 
-- [EigenLayer: Liquid Staking Derivative](/code4rena/2023-04-eigenlayer.md) - 9th place
 
 ### Stats
 
