@@ -26,7 +26,7 @@ Reports for all audit contests can be found [here](/audit-contests.md).
 - 17 High, 50 Medium severity vulnerabilities found
 - Ranked #4 on [Code4rena's 2023 leaderboard](https://code4rena.com/leaderboard)
 
-<img src="images/code4rena_leaderboard.jpg" width="900">
+<img src="images/c4_leaderboard.jpg" width="900">
 
 ## Bug Bounty
 
