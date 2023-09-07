@@ -24,7 +24,7 @@ Reports for all audit contests can be found [here](/audit-contests.md).
 
 - [Code4rena Profile](https://code4rena.com/@MiloTruck)
 - 17 High, 50 Medium severity vulnerabilities found
-- Ranked #8 on [Code4rena's 2023 leaderboard](https://code4rena.com/leaderboard)
+- Ranked #4 on [Code4rena's 2023 leaderboard](https://code4rena.com/leaderboard)
 
 <img src="images/c4_leaderboard.jpg" width="900">
 
