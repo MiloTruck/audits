@@ -18,7 +18,7 @@ Reports for all audit contests can be found [here](/audit-contests.md).
 
 - [LUKSO Network: Blockchain Ecosystem, Account Abstraction](/pdf/LUKSO%20Audit%20Report.pdf) - 🥇1st place
 - [Lens Protocol V2: Social Network](https://code4rena.com/contests/2023-07-lens-protocol-v2) - 🥇1st place
-- [Arbitrum Security Council Elections: Governance](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) - 🥇1st place
+- [Arbitrum Security Council Elections: Governance](/pdf/Arbitrum%20Security%20Council%20Elections%20Audit%20Report.pdf) - 🥇1st place
 
 ### Stats
 

@@ -15,7 +15,7 @@
 | [Chainlink CCIP](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network) | 3 H | #8 | $6,300.97 | Solidity | |
 | [LUKSO](https://code4rena.com/contests/2023-06-lukso) | 6 M | #1 | $44,459.52 | Solidity | [PDF](/pdf/LUKSO%20Audit%20Report.pdf) <br> [Markdown](/code4rena/2023-06-lukso.md) |
 | [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | 8 M | #1 | $29,747.31 | Solidity |  |
-| [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | 1 H, 3 M | #1 | $15,482.70 | Solidity | |
+| [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | 1 H, 3 M | #1 | $15,482.70 | Solidity | [PDF](/pdf/Arbitrum%20Security%20Council%20Elections%20Audit%20Report.pdf) <br> [Markdown](/code4rena/2023-08-arbitrum.md) |
 | Overall | 13 H, 29 M | | $101,168.83 | | |
 
 ## 2022
