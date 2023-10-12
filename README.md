@@ -19,11 +19,12 @@ Reports for all audit contests can be found [here](/audit-contests.md).
 - [LUKSO Network: Blockchain Ecosystem, Account Abstraction](/pdf/LUKSO%20Audit%20Report.pdf) - 🥇1st place
 - [Lens Protocol V2: Social Network](https://code4rena.com/contests/2023-07-lens-protocol-v2) - 🥇1st place
 - [Arbitrum Security Council Elections: Governance](/pdf/Arbitrum%20Security%20Council%20Elections%20Audit%20Report.pdf) - 🥇1st place
+- [StakeWise V3: Liquid ETH Staking](/pdf/StakeWise%20V3%20Audit%20Report.pdf) - 🥇1st place
 
 ### Stats
 
 - [Code4rena Profile](https://code4rena.com/@MiloTruck)
-- 17 High, 50 Medium severity vulnerabilities found
+- 17 High, 51 Medium severity vulnerabilities found
 - Ranked #4 on [Code4rena's 2023 leaderboard](https://code4rena.com/leaderboard)
 
 <img src="images/leaderboard.jpg" width="900">

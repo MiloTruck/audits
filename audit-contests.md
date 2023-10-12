@@ -1,6 +1,6 @@
-# Code4rena
+# 2023
 
-## 2023
+## Code4rena
 
 | Contest | Findings | Ranking | Payout | Language | Audit Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
@@ -18,7 +18,24 @@
 | [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | 1 H, 3 M | #1 | $15,482.70 | Solidity | [PDF](/pdf/Arbitrum%20Security%20Council%20Elections%20Audit%20Report.pdf) <br> [Markdown](/code4rena/2023-08-arbitrum.md) |
 | Overall | 13 H, 29 M | | $101,168.83 | | |
 
-## 2022
+## Hats Finance
+
+| Contest | Findings | Ranking | Payout | Language | Audit Report |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [StakeWise V3](https://stakewise.io/) | 1 M, 3 L | #1 | $11,703 | Solidity | [PDF](/pdf/StakeWise%20V3%20Audit%20Report.pdf) <br> [Markdown](/hats_finance/2023-08-stakewise.md) |
+| Overall | 1 M, 3 L | | $11,703 | |
+
+## Sherlock
+
+| Contest | Findings | Ranking | Payout | Language | Audit Report |
+|:--:|:--:|:--:|:--:|:--:|:--:|
+| [Teller V2](https://app.sherlock.xyz/audits/contests/62) | 1 H, 5 M | #25 | $193.70 | Solidity | [Markdown](/sherlock/2023-03-teller.md) |
+| [Footium](https://app.sherlock.xyz/audits/contests/71) | 1 H, 1 M | #19 | $120.88 | Solidity | [Markdown](/sherlock/2023-04-footium.md) |
+| Overall | 2 H, 6 M | | $314.58 | | |
+
+# 2022
+
+## Code4rena
 
 | Contest | Findings | Ranking | Payout | Language | Audit Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
@@ -33,11 +50,3 @@
 | [Trader Joe v2](https://code4rena.com/contests/2022-10-trader-joe-v2-contest) | 1 M | #14 | $614.74 | Solidity |  [Markdown](/code4rena/2022-10-traderjoe.md) |
 | [Inverse Finance](https://code4rena.com/contests/2022-10-inverse-finance-contest) | 1 M | #39 | $156.27 | Solidity |  [Markdown](/code4rena/2022-10-inverse.md) |
 | Overall | 2 H, 15 M | #168 | $7,117.64 | | |
-
-# Sherlock
-
-| Contest | Findings | Ranking | Payout | Language | Audit Report |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| [Teller V2](https://app.sherlock.xyz/audits/contests/62) | 1 H, 5 M | #25 | $193.70 | Solidity | [Markdown](/sherlock/2023-03-teller.md) |
-| [Footium](https://app.sherlock.xyz/audits/contests/71) | 1 H, 1 M | #19 | $120.88 | Solidity | [Markdown](/sherlock/2023-04-footium.md) |
-| Overall | 2 H, 6 M | | $314.58 | | |
