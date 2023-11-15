@@ -31,10 +31,10 @@ Reports for all audit contests can be found [here](/audit-contests.md).
 
 | Contest | Type | Ranking | Report |
 | - | - | :-: | :-: |
-| [LUKSO](https://code4rena.com/contests/2023-06-lukso) | Blockchain Ecosystem, Account Abstraction | 🥇1 / 22 | [📄](/pdf/LUKSO%20Audit%20Report.pdf) |
-| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1 / 26 |  |
-| [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance | 🥇1 / 38 | [📄](/pdf/Arbitrum%20Security%20Council%20Elections%20Audit%20Report.pdf) |
-| [StakeWise V3](https://app.hats.finance/audit-competitions/stakewise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/leaderboard) | Liquid ETH Staking | 🥇1 / 4 | [📄](/pdf/StakeWise%20V3%20Audit%20Report.pdf) |
+| [LUKSO](https://code4rena.com/contests/2023-06-lukso) | Blockchain Ecosystem, Account Abstraction | 🥇1st | [📄](/pdf/LUKSO%20Audit%20Report.pdf) |
+| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1st |  |
+| [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance | 🥇1st | [📄](/pdf/Arbitrum%20Security%20Council%20Elections%20Audit%20Report.pdf) |
+| [StakeWise V3](https://app.hats.finance/audit-competitions/stakewise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/leaderboard) | Liquid ETH Staking | 🥇1st | [📄](/pdf/StakeWise%20V3%20Audit%20Report.pdf) |
 
 ## Bug Bounty
 
