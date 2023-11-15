@@ -28,7 +28,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 Reports for all audit contests can be found [here](/audit-contests.md).
 
 | Contest | Type | Ranking | Report |
-| :-: | :-: | :-: | :-: |
+| :- | :- | :-: | :-: |
 | [LUKSO](https://code4rena.com/contests/2023-06-lukso) | Blockchain Ecosystem, Account Abstraction | 🥇1 / 22 | [📄](/pdf/LUKSO%20Audit%20Report.pdf) |
 | [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1 / 26 |  |
 | [Arbitrum Security Council Election System](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance | 🥇1 / 38 | [📄](/pdf/Arbitrum%20Security%20Council%20Elections%20Audit%20Report.pdf) |
