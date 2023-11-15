@@ -21,7 +21,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 
 | Protocol | Type | Report |
 | - | - | :-: |
-| [LUKSO](https://lukso.network/)  | Account Abstraction | [📄](/pdf/LUKSO%20Audit%20Report%202.pdf) |
+| [LUKSO (LSP0, LSP6)](https://lukso.network/)  | Account Abstraction | [📄](/pdf/LUKSO%20Audit%20Report%202.pdf) |
 
 ## Audit Contests
 
