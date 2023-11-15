@@ -2,7 +2,9 @@
 
 ## About MiloTruck
 
-I'm an independent security researcher who specializes in smart contract audits. Currently, I work as a Senior Auditor at [Trust Security](https://www.trust-security.xyz/) and Associate Security Researcher at [Spearbit](https://spearbit.com/). Having won multiple audit contests, I'm also one of the top wardens on [Code4rena](https://code4rena.com/).
+I'm an independent security researcher who specializes in smart contract audits. 
+
+Currently, I'm a Senior Auditor at [Trust Security](https://www.trust-security.xyz/) and Associate Security Researcher at [Spearbit](https://spearbit.com/). I'm also one of the top wardens on [Code4rena](https://code4rena.com/).
 
 For private audits or security consulting, please reach out to me on:
 - Twitter - [*@milotruck*](https://twitter.com/milotruck) 
