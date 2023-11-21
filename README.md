@@ -15,9 +15,9 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 ### Highlights
 
 - [Code4rena Profile](https://code4rena.com/@MiloTruck)
-- Ranked #4 on [Code4rena's 2023 leaderboard](https://code4rena.com/leaderboard)
+- Ranked #1 on Code4rena as of November 2023
 
-<img src="images/leaderboard.jpg" width="900">
+<img src="images/c4_leaderboard.jpg" width="900">
 
 ## Private Audits
 
