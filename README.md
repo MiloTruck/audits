@@ -15,6 +15,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 ### Highlights
 
 - [Code4rena Profile](https://code4rena.com/@MiloTruck)
+- [Blog: A year of Competitive Audits](https://milotruck.github.io/blog/A-year-of-Competitive-Audits/)
 - Ranked #1 on Code4rena as of November 2023
 
 <img src="images/c4_leaderboard.png" width="900">
