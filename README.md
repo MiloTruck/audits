@@ -43,6 +43,12 @@ Reports for all audit contests can be found [here](/audit-contests.md).
 
 ## Bug Bounty
 
+Immunefi
+
 - [Beluga Protocol: Permanent freezing of tokens by vote manipulation](/immunefi/beluga-C-01.md) - Critical
 - [Arcade.xyz: Forcing users into loans by manipulating EIP-1271 signatures](/immunefi/arcadexyz-H-01.md) - High
 - [GYSR: Theft of funds through precision loss](/immunefi/gysr-I-01.md) - Informational
+
+Others
+
+- [Solmate: Edge-case in `wadMul()` of `SignedWadMath.sol`](https://github.com/transmissions11/solmate/pull/380)
