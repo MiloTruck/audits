@@ -14,10 +14,10 @@
 | [EigenLayer](https://code4rena.com/contests/2023-04-eigenlayer-contest) | 1 H, 1 M | #9 | $1,978.72 | Solidity |  [Markdown](/code4rena/2023-04-eigenlayer.md) |
 | [Chainlink CCIP](https://code4rena.com/contests/2023-05-chainlink-cross-chain-services-ccip-and-arm-network) | 3 H | #8 | $6,300.97 | Solidity | |
 | [LUKSO](https://code4rena.com/contests/2023-06-lukso) | 6 M | #1 | $44,459.52 | Solidity | [PDF](/pdf/LUKSO%20Audit%20Report.pdf) <br> [Markdown](/code4rena/2023-06-lukso.md) |
-| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | 8 M | #1 | $29,747.31 | Solidity |  |
+| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | 8 M | #1 | $29,747.31 | Solidity | [Markdown](/code4rena/2023-07-lens.md) |
 | [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | 1 H, 3 M | #1 | $15,482.70 | Solidity | [PDF](/pdf/Arbitrum%20Security%20Council%20Elections%20Audit%20Report.pdf) <br> [Markdown](/code4rena/2023-08-arbitrum.md) |
 | [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02) | 10 M | #1 | $48,797.95 | Solidity |  |
-| [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | 3 H, 7 M | #2 | $10,093.23 | Solidity |  |
+| [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | 3 H, 7 M | #2 | $10,093.23 | Solidity | [Markdown](/code4rena/2023-10-wildcat.md) |
 | Overall | 16 H, 46 M | | $160,115.86 | | |
 
 ## Hats Finance

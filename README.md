@@ -37,11 +37,11 @@ Reports for all audit contests can be found [here](/audit-contests.md).
 | Contest | Type | Ranking | Report |
 | - | - | :-: | :-: |
 | [LUKSO](https://code4rena.com/contests/2023-06-lukso) | Blockchain Ecosystem, Account Abstraction | 🥇1st | [📄](/pdf/LUKSO%20Audit%20Report.pdf) |
-| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1st | |
+| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1st |[📄](/code4rena/2023-07-lens.md) |
 | [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance, Voting | 🥇1st | [📄](/pdf/Arbitrum%20Security%20Council%20Elections%20Audit%20Report.pdf) |
 | [StakeWise V3](https://app.hats.finance/audit-competitions/stakewise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/leaderboard) | Liquid ETH Staking | 🥇1st |[📄](/pdf/StakeWise%20V3%20Audit%20Report.pdf) |
 | [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02) | Staking | 🥇1st |  |
-| [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | Lending | 🥈2nd |  |
+| [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | Lending | 🥈2nd | [📄](/code4rena/2023-10-wildcat.md) |
 
 ## Bug Bounty
 
