@@ -1,6 +1,6 @@
 # MiloTruck's Audit Portfolio
 
-## About MiloTruck
+## About
 
 I'm an independent security researcher who specializes in smart contract audits. 
 
@@ -24,6 +24,8 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 
 | Protocol | Type | Report |
 | - | - | :-: |
+| [LUKSO (LSP4, LSP7, LSP8)](https://lukso.network/) | ERC-20, ERC-721 | |
+| [Epoch Island (ITO)](https://epochisland.io/) | Swaps | [📄](/pdf/EPOCH%20Island%20(ITO)%20Audit%20Report.pdf) |
 | [Cega Finance V2](https://www.cega.fi/) | Perpetuals, Yield  | |
 | [LUKSO (LSP0, LSP6)](https://lukso.network/)  | Account Abstraction | [📄](/pdf/LUKSO%20Audit%20Report%202.pdf) |
 | [Epoch Island](https://epochisland.io/) | ERC-20, Yield | [📄](/pdf/Epoch%20Island%20Audit%20Report.pdf) |
