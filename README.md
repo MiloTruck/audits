@@ -25,7 +25,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 | Protocol | Type | Report |
 | - | - | :-: |
 | [Cega Finance V2](https://www.cega.fi/) | Perpetuals | |
-| [Rodeo Finance (GMX GM Strategy)](https://www.rodeofinance.xyz/) | Yield, GMX V2 | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
+| [Rodeo Finance (GMX GM Strategy)](https://www.rodeofinance.xyz/) | Yield, GMX V2 Integration | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
 | [LUKSO (LSP4, LSP7, LSP8)](https://lukso.network/) | ERC-20, ERC-721 | |
 | [LUKSO (LSP0, LSP6)](https://lukso.network/)  | Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
 | [Epoch Island (ITO)](https://epochisland.io/) | Swaps | [📄](/solo/Epoch%20Island%20(ITO).pdf) |
