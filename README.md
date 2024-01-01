@@ -25,24 +25,24 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 | Protocol | Type | Report |
 | - | - | :-: |
 | [Cega Finance V2](https://www.cega.fi/) | Perpetuals | |
-| [Rodeo Finance (GMX GM Strategy)](https://www.rodeofinance.xyz/) | Yield, GMX V2 | [📄](/pdf/Rodeo%20Finance%20Audit%20Report.pdf) | 
+| [Rodeo Finance (GMX GM Strategy)](https://www.rodeofinance.xyz/) | Yield, GMX V2 | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
 | [LUKSO (LSP4, LSP7, LSP8)](https://lukso.network/) | ERC-20, ERC-721 | |
-| [LUKSO (LSP0, LSP6)](https://lukso.network/)  | Account Abstraction | [📄](/pdf/LUKSO%20Audit%20Report%202.pdf) |
-| [Epoch Island (ITO)](https://epochisland.io/) | Swaps | [📄](/pdf/EPOCH%20Island%20(ITO)%20Audit%20Report.pdf) |
-| [Epoch Island](https://epochisland.io/) | ERC-20, Yield | [📄](/pdf/Epoch%20Island%20Audit%20Report.pdf) |
+| [LUKSO (LSP0, LSP6)](https://lukso.network/)  | Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
+| [Epoch Island (ITO)](https://epochisland.io/) | Swaps | [📄](/solo/EPOCH%20Island%20(ITO).pdf) |
+| [Epoch Island](https://epochisland.io/) | ERC-20, Yield | [📄](/solo/Epoch%20Island.pdf) |
 
 ## Audit Contests
 
-Reports for all audit contests can be found [here](/audit-contests.md).
+Reports for all audit contests can be found [here](/contests/).
 
 | Contest | Type | Ranking | Report |
 | - | - | :-: | :-: |
-| [LUKSO](https://code4rena.com/contests/2023-06-lukso) | Blockchain Ecosystem, Account Abstraction | 🥇1st | [📄](/pdf/LUKSO%20Audit%20Report.pdf) |
-| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1st |[📄](/code4rena/2023-07-lens.md) |
-| [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance, Voting | 🥇1st | [📄](/pdf/Arbitrum%20Security%20Council%20Elections%20Audit%20Report.pdf) |
-| [StakeWise V3](https://app.hats.finance/audit-competitions/stakewise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/leaderboard) | Liquid ETH Staking | 🥇1st |[📄](/pdf/StakeWise%20V3%20Audit%20Report.pdf) |
+| [LUKSO](https://code4rena.com/contests/2023-06-lukso) | Blockchain Ecosystem, Account Abstraction | 🥇1st | [📄](/contests/pdf/LUKSO.pdf) |
+| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1st |[📄](/contests/2023-07-lens.md) |
+| [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance, Voting | 🥇1st | [📄](/contests/pdf/Arbitrum%20Security%20Council%20Elections.pdf) |
+| [StakeWise V3](https://app.hats.finance/audit-competitions/stakewise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/leaderboard) | Liquid ETH Staking | 🥇1st |[📄](/contests/pdf/StakeWise%20V3.pdf) |
 | [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02) | Staking | 🥇1st |  |
-| [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | Lending | 🥈2nd | [📄](/code4rena/2023-10-wildcat.md) |
+| [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | Lending | 🥈2nd | [📄](/contests/2023-10-wildcat.md) |
 
 ## Bug Bounty
 
