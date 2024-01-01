@@ -2,7 +2,7 @@
 
 ## Code4rena
 
-| Contest | Findings | Ranking | Payout | Language | Audit Report |
+| Contest | Findings | Ranking | Payout | Language | Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Ethos Reserve](https://code4rena.com/contests/2023-02-ethos-reserve-contest) | 1 M | #49 | $142.85 | Solidity |  [📄](/contests/2023-02-ethos.md) |
 | [Wenwin](https://code4rena.com/contests/2023-03-wenwin-contest) | 1 M | #18 | $397.60 | Solidity |  [📄](/contests/2023-03-wenwin.md) |
@@ -22,14 +22,14 @@
 
 ## Hats Finance
 
-| Contest | Findings | Ranking | Payout | Language | Audit Report |
+| Contest | Findings | Ranking | Payout | Language | Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [StakeWise V3](https://stakewise.io/) | 1 M, 3 L | #1 | $11,703 | Solidity | [📄](/contests/2023-08-stakewise.md) |
 | Overall | 1 M, 3 L | | $11,703 | |
 
 ## Sherlock
 
-| Contest | Findings | Ranking | Payout | Language | Audit Report |
+| Contest | Findings | Ranking | Payout | Language | Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Teller V2](https://app.sherlock.xyz/audits/contests/62) | 1 H, 5 M | #25 | $193.70 | Solidity | [📄](/contests/2023-03-teller.md) |
 | [Footium](https://app.sherlock.xyz/audits/contests/71) | 1 H, 1 M | #19 | $120.88 | Solidity | [📄](/contests/2023-04-footium.md) |
@@ -39,7 +39,7 @@
 
 ## Code4rena
 
-| Contest | Findings | Ranking | Payout | Language | Audit Report |
+| Contest | Findings | Ranking | Payout | Language | Report |
 |:--:|:--:|:--:|:--:|:--:|:--:|
 | [Cally](https://code4rena.com/contests/2022-05-cally-contest) | 4 M | #20 | $255.08 | Solidity |  [📄](/contests/2022-05-cally.md) |
 | [Rubicon](https://code4rena.com/contests/2022-05-rubicon-contest) | 1 H, 2 M | #34 | $234.95 | Solidity |  [📄](/contests/2022-05-rubicon.md) |
