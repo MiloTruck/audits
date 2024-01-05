@@ -23,7 +23,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 ## Private Audits
 
 | Protocol | Scope | Category | Report |
-| - | - | :-: |
+| - | - | - | :-: |
 | [Rodeo Finance](https://www.rodeofinance.xyz/) | GMX GM Strategy | Yield, GMX V2 Integration | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
 | [LUKSO](https://lukso.network/) | LSP4, LSP7, LSP8 | ERC-20, ERC-721 | |
 | [LUKSO](https://lukso.network/) | LSP0, LSP6  | Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
