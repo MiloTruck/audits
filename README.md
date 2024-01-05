@@ -28,7 +28,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 | [LUKSO (LSP4, LSP7, LSP8)](https://lukso.network/) | ERC-20, ERC-721 | |
 | [LUKSO (LSP0, LSP6)](https://lukso.network/)  | Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
 | [Epoch Island (ITO)](https://epochisland.io/) | Swaps | [📄](/solo/Epoch%20Island%20(ITO).pdf) |
-| [Epoch Island (ITO, Swap)](https://epochisland.io/) | ERC-20, Yield | [📄](/solo/Epoch%20Island.pdf) |
+| [Epoch Island (ITO, Swap)](https://epochisland.io/) | ERC-20, Swaps | [📄](/solo/Epoch%20Island.pdf) |
 | [Cega Finance V2](https://www.cega.fi/) | Perpetuals | |
 
 ## Audit Contests
