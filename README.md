@@ -22,18 +22,18 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 
 ## Private Audits
 
-[Rodeo Finance]((https://www.rodeofinance.xyz/))
+[**Rodeo Finance**](https://www.rodeofinance.xyz/)
 - [GMX GM Strategy](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) - Yield, GMX V2 Integration
 
-[LUKSO](https://lukso.network/)
+[**LUKSO**](https://lukso.network/)
 - [LSP0, LSP6](/solo/LUKSO%20(LSP0,%20LSP6).pdf) - Account Abstraction
 - [LSP4, LSP7, LSP8]() - ERC-20, ERC-721
 
-[Epoch Island](https://epochisland.io/)
+[**Epoch Island**](https://epochisland.io/)
 - [ITO, Swap Functionality](/solo/Epoch%20Island.pdf) - ERC-20, Swaps
 - [ITO](/solo/Epoch%20Island%20(ITO).pdf) - Swaps
 
-[Cega Finance V2](https://www.cega.fi/)
+[**Cega Finance V2**](https://www.cega.fi/)
 - V2 Protocol - Perpetuals
 
 ## Audit Contests
