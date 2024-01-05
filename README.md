@@ -22,20 +22,20 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 
 ## Private Audits
 
-| Protocol | Type | Report |
+| Protocol | Scope | Category | Report |
 | - | - | :-: |
-| [Rodeo Finance (GMX GM Strategy)](https://www.rodeofinance.xyz/) | Yield, GMX V2 Integration | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
-| [LUKSO (LSP4, LSP7, LSP8)](https://lukso.network/) | ERC-20, ERC-721 | |
-| [LUKSO (LSP0, LSP6)](https://lukso.network/)  | Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
-| [Epoch Island (ITO)](https://epochisland.io/) | Swaps | [📄](/solo/Epoch%20Island%20(ITO).pdf) |
-| [Epoch Island (ITO, Swap)](https://epochisland.io/) | ERC-20, Swaps | [📄](/solo/Epoch%20Island.pdf) |
-| [Cega Finance V2](https://www.cega.fi/) | Perpetuals | |
+| [Rodeo Finance](https://www.rodeofinance.xyz/) | GMX GM Strategy | Yield, GMX V2 Integration | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
+| [LUKSO](https://lukso.network/) | LSP4, LSP7, LSP8 | ERC-20, ERC-721 | |
+| [LUKSO](https://lukso.network/) | LSP0, LSP6  | Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
+| [Epoch Island](https://epochisland.io/) | ITO |  | [📄](/solo/Epoch%20Island%20(ITO).pdf) |
+| [Epoch Island](https://epochisland.io/) | ITO, VeEpoch | ERC-20 | [📄](/solo/Epoch%20Island.pdf) |
+| [Cega Finance](https://www.cega.fi/) | V2 Protocol | Perpetuals | |
 
 ## Audit Contests
 
 Reports for all audit contests can be found [here](/contests/).
 
-| Contest | Type | Ranking | Report |
+| Contest | Category | Ranking | Report |
 | - | - | :-: | :-: |
 | [LUKSO](https://code4rena.com/contests/2023-06-lukso) | Blockchain Ecosystem, Account Abstraction | 🥇1st | [📄](/contests/pdf/LUKSO.pdf) |
 | [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1st |[📄](/contests/2023-07-lens.md) |
