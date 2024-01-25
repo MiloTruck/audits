@@ -4,11 +4,11 @@
 
 I'm an independent security researcher who specializes in smart contract audits. 
 
-Currently, I'm a Senior Auditor at [Trust Security](https://www.trust-security.xyz/) and Associate Security Researcher at [Spearbit](https://spearbit.com/). I'm also one of the top wardens on [Code4rena](https://code4rena.com/).
+Currently, I'm a Senior Auditor at [Trust Security](https://www.trust-security.xyz/) and Security Researcher at [Spearbit](https://spearbit.com/). I'm also one of the top wardens on [Code4rena](https://code4rena.com/).
 
 For private audits or security consulting, please reach out to me on:
+
 - Twitter - [*@milotruck*](https://twitter.com/milotruck) 
-- Discord - [*@milotruck*](https://discord.com/users/302259685560680460)
 
 You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or [Cantina](https://cantina.xyz/u/milotruck) to engage them as an intermediary.
 
@@ -25,7 +25,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 | Protocol | Scope | Category | Report |
 | - | - | - | :-: |
 | [Rodeo Finance](https://www.rodeofinance.xyz/) | GMX GM Strategy | Yield, GMX V2 Integration | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
-| [LUKSO](https://lukso.network/) | LSP4, LSP7, LSP8 | ERC-20, ERC-721 | |
+| [LUKSO](https://lukso.network/) | LSP4, LSP7, LSP8 | ERC-20, ERC-721 | [📄](/solo/LUKSO%20(LSP4,%20LSP7,%20LSP8).pdf) |
 | [LUKSO](https://lukso.network/) | LSP0, LSP6  | Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
 | [Epoch Island](https://epochisland.io/) | ITO | Swaps | [📄](/solo/Epoch%20Island%20(ITO).pdf) |
 | [Epoch Island](https://epochisland.io/) | ITO, VeEpoch | Swaps, ERC-20 | [📄](/solo/Epoch%20Island.pdf) |
