@@ -20,6 +20,27 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 
 <img src="images/c4_leaderboard.png" width="900">
 
+
+## Engagements
+
+### Renascence Labs
+
+| Protocol | Category | Report |
+| - | - | :-: |
+| [Locksmith](https://locksmithwallet.com/) | ERC-1155 | [📄](https://renascence-labs.xyz/static/Locksmith-Final.pdf) |
+
+### Spearbit
+
+| Protocol | Category | Report |
+| - | - | :-: |
+| [Blast L2](https://blast.io/) | L2, OP Stack | |
+
+### Trust Security
+
+| Protocol | Category | Report |
+| - | - | :-: |
+| [Mozaic Finance](https://mozaic.finance/) | Staking, GMX V2 Integration | |
+
 ## Private Audits
 
 | Protocol | Scope | Category | Report |
