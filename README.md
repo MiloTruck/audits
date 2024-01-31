@@ -33,7 +33,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 
 | Protocol | Category | Report |
 | - | - | :-: |
-| [Blast L2](https://blast.io/) | L2, OP Stack | |
+| [Blast L2](https://blast.io/) | L2, OP Stack, Lido & MakerDAO Integration | |
 
 ### Trust Security
 
