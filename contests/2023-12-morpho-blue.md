@@ -13,7 +13,7 @@ The code under review can be found in [morpho-blue](https://github.com/morpho-or
 | [I-01](#i-01-markets-can-be-dosed-upon-creation-by-inflating-totalborrowshares) | Markets can be DOSed upon creation by inflating `totalBorrowShares` | Informational |
 | [I-02](#i-02-max_liquidation_incentive_factor-is-incorrect-in-documentation) | `MAX_LIQUIDATION_INCENTIVE_FACTOR` is incorrect in documentation | Informational |
 
-### [H-01] Markets can be created for tokens without code
+## [H-01] Markets can be created for tokens without code
 
 **Context:**
 - [SafeTransferLib.sol](https://github.com/morpho-org/morpho-blue/blob/f463e40f776acd0f26d0d380b51cfd02949c8c23/src/libraries/SafeTransferLib.sol)
@@ -100,7 +100,7 @@ In `createMarket()`, check that `loanToken` and `collateralToken` contain code:
 +     require(marketParams.collateralToken.length != 0, ErrorsLib.COLLATERALTOKEN_NO_CODE);
 ```
 
-### [M-01] Deviation in oracle price could lead to arbitrage in high LLTV markets
+## [M-01] Deviation in oracle price could lead to arbitrage in high LLTV markets
 
 **Context:**
 
@@ -195,7 +195,7 @@ Further possible mitigations have also been explored by other protocols:
 - [Angle Protocol: Oracles and Front-Running](https://medium.com/angle-protocol/angle-research-series-part-1-oracles-and-front-running-d75184abc67)
 - [Liquity: The oracle conundrum](https://www.liquity.org/blog/the-oracle-conundrum)
 
-### [M-02] Users can take advantage of low liquidity markets to inflate the interest rate
+## [M-02] Users can take advantage of low liquidity markets to inflate the interest rate
 
 **Context:**
 
@@ -346,7 +346,7 @@ In `_accrueInterest()`, consider checking that `totalSupplyAssets` is sufficient
 
 This prevents the IRM from adjusting the interest rate when the utilization rate is "falsely" high (e.g. only 1 wei supplied and borrowed, resulting in 100% utilization rate).
 
-### [L-01] Positions might not have sufficient liquidation incentive in high LLTV markets
+## [L-01] Positions might not have sufficient liquidation incentive in high LLTV markets
 
 **Context:** 
 - [ConstantsLib.sol#L10-L11](https://github.com/morpho-org/morpho-blue/blob/f463e40f776acd0f26d0d380b51cfd02949c8c23/src/libraries/ConstantsLib.sol#L10-L11)
@@ -397,7 +397,7 @@ Note that markets with a smaller LLTV also face the same problem, just that the 
 
 Consider requiring a minimum amount of collateral, which is based on the market's LLTV, for borrowers to open any position. Ideally, this lower bound should be large enough such that any unhealthy position will have sufficient liquidation incentive.   
 
-### [I-01] Markets can be DOSed upon creation by inflating `totalBorrowShares`
+## [I-01] Markets can be DOSed upon creation by inflating `totalBorrowShares`
 
 **Context:** 
 - [SharesMathLib.sol](https://github.com/morpho-org/morpho-blue/blob/f463e40f776acd0f26d0d380b51cfd02949c8c23/src/libraries/SharesMathLib.sol)
@@ -473,7 +473,7 @@ contract EOATokenTest is BaseTest {
 
 Consider adding a lower bound for the amount of shares that is burned in `repay()`.
 
-### [I-02] `MAX_LIQUIDATION_INCENTIVE_FACTOR` is incorrect in documentation
+## [I-02] `MAX_LIQUIDATION_INCENTIVE_FACTOR` is incorrect in documentation
 
 **Context:**
 
