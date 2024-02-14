@@ -28,6 +28,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 | Protocol | Category | Report |
 | - | - | :-: |
 | [Locksmith](https://locksmithwallet.com/) | ERC-1155 | [📄](https://renascence-labs.xyz/static/Locksmith-Final.pdf) |
+| [Arcade.xyz V4](https://www.arcade.xyz/) | NFT-collateralized Lending | |
 
 ### Spearbit
 
@@ -64,6 +65,7 @@ Reports for all audit contests can be found [here](/contests/).
 | [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance, Voting | 🥇1st | [📄](/contests/pdf/Arbitrum%20Security%20Council%20Elections.pdf) |
 | [StakeWise V3](https://app.hats.finance/audit-competitions/stakewise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/leaderboard) | Liquid ETH Staking | 🥇1st |[📄](/contests/pdf/StakeWise%20V3.pdf) |
 | [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02) | Staking | 🥇1st |  |
+| [Morpho Blue](https://twitter.com/cantinaxyz/status/1757516104740593790) | Lending | 🥈2nd | [📄](/contests/2023-12-morpho-blue.md) |
 | [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | Lending | 🥈2nd | [📄](/contests/2023-10-wildcat.md) |
 
 ## Bug Bounty
