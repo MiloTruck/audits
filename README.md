@@ -28,7 +28,7 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 | Protocol | Category | Report |
 | - | - | :-: |
 | [Locksmith](https://locksmithwallet.com/) | ERC-1155 | [📄](https://renascence-labs.xyz/static/Locksmith-Final.pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) | NFT-collateralized Lending | |
+| [Arcade.xyz](https://www.arcade.xyz/) | NFT-collateralized Lending |[📄](https://renascence-labs.xyz/static/pdfs/Arcade-V4-Final.pdf) |
 
 ### Spearbit
 
