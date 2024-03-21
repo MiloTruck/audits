@@ -2,9 +2,9 @@
 
 ## About MiloTruck
 
-I'm an independent security researcher who specializes in EVM security, and 1/4th of the team at [Renascence Labs](https://renascence-labs.xyz/).
+I'm an independent security researcher, and 1/4th of the team at [Renascence Labs](https://renascence-labs.xyz/).
 
-I'm also a Senior Auditor at [Trust Security](https://www.trust-security.xyz/) and Security Researcher at [Spearbit](https://spearbit.com/).
+I'm also a **Security Researcher** at [Spearbit](https://spearbit.com/) and **Senior Auditor** at [Trust Security](https://www.trust-security.xyz/).
 
 For private audits or security consulting, please reach out to me on Twitter [*@milotruck*](https://twitter.com/milotruck).
 
@@ -23,8 +23,8 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | Protocol | Scope | Category | Report |
 | - | - | - | :-: |
 | [Locksmith](https://locksmithwallet.com/) | | ERC-1155 | [📄](/engagements/renascence/Locksmith.pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) | V4 Protocol | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade%20V4.pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) | ARCD Staking | Sushiswap/Synthetix-like Staking Rewards | [📄](/engagements/renascence/Arcade%20Staking%20Rewards.pdf) |
+| [Arcade.xyz](https://www.arcade.xyz/) | V4 Protocol | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade.xyz%20(V4).pdf) |
+| [Arcade.xyz](https://www.arcade.xyz/) | ARCD Staking | Sushiswap/Synthetix Staking Rewards | [📄](/engagements/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
 
 ### Spearbit
 
@@ -36,7 +36,8 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 | Protocol | Scope | Category | Report |
 | - | - | - | :-: |
-| [Mozaic Finance](https://mozaic.finance/) | Theseus Vault | Staking, GMX V2 Integration | [📄](/engagements/trust/Mozaic%20Thesus.pdf) |
+| [Mozaic Finance](https://mozaic.finance/) | Theseus Vault | Yield, GMX V2 Integration | [📄](/engagements/trust/Mozaic%20(Thesus%20Vault).pdf) |
+| [Mozaic Finance](https://mozaic.finance/) | xMOZ Staking |Sushiswap/Synthetix Staking Rewards | [📄](//engagements/trust/Mozaic%20(xMOZ%20Staking).pdf) |
 
 ## Private Audits
 
