@@ -2,15 +2,11 @@
 
 ## About MiloTruck
 
-I'm an independent security researcher who specializes in smart contract audits. 
+I'm an independent security researcher who specializes in EVM security, and 1/4th of the team at [Renascence Labs](https://renascence-labs.xyz/).
 
-Currently, I'm a Senior Auditor at [Trust Security](https://www.trust-security.xyz/) and Security Researcher at [Spearbit](https://spearbit.com/). I'm also one of the top wardens on [Code4rena](https://code4rena.com/).
+I'm also a Senior Auditor at [Trust Security](https://www.trust-security.xyz/) and Security Researcher at [Spearbit](https://spearbit.com/).
 
-For private audits or security consulting, please reach out to me on:
-
-- Twitter - [*@milotruck*](https://twitter.com/milotruck) 
-
-You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or [Cantina](https://cantina.xyz/u/milotruck) to engage them as an intermediary.
+For private audits or security consulting, please reach out to me on Twitter [*@milotruck*](https://twitter.com/milotruck).
 
 ### Highlights
 
@@ -20,27 +16,27 @@ You can also request a quote on [Code4rena](https://code4rena.com/@milotruck) or
 
 <img src="images/c4_leaderboard.png" width="900">
 
-
 ## Engagements
 
 ### Renascence Labs
 
 | Protocol | Category | Report |
 | - | - | :-: |
-| [Locksmith](https://locksmithwallet.com/) | ERC-1155 | [📄](https://renascence-labs.xyz/static/Locksmith-Final.pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) | NFT-collateralized Lending |[📄](https://renascence-labs.xyz/static/pdfs/Arcade-V4-Final.pdf) |
+| [Locksmith](https://locksmithwallet.com/) | ERC-1155 | [📄](/engagements/renascence/Locksmith.pdf) |
+| [Arcade.xyz](https://www.arcade.xyz/) (V4 Protocol) | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade%20V4.pdf) |
+| [Arcade.xyz](https://www.arcade.xyz/) (ARCD Staking) | Sushiswap/Synthetix-like Staking Rewards | [📄](/engagements/renascence/Arcade%20Staking%20Rewards.pdf) |
 
 ### Spearbit
 
 | Protocol | Category | Report |
 | - | - | :-: |
-| [Blast L2](https://blast.io/) | L2, OP Stack, Lido & MakerDAO Integration | |
+| [Blast L2](https://blast.io/) | L2, OP Stack, Lido & MakerDAO Integration | [📄](/engagements/spearbit/Blast%20L2.pdf) |
 
 ### Trust Security
 
 | Protocol | Category | Report |
 | - | - | :-: |
-| [Mozaic Finance](https://mozaic.finance/) | Staking, GMX V2 Integration | |
+| [Mozaic Finance](https://mozaic.finance/) | Staking, GMX V2 Integration | [📄](/engagements/trust/Mozaic%20Thesus.pdf) |
 
 ## Private Audits
 
