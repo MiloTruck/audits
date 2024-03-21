@@ -12,7 +12,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 - [Code4rena Profile](https://code4rena.com/@MiloTruck)
 - [Blog: A year of Competitive Audits](https://milotruck.github.io/blog/A-year-of-Competitive-Audits/)
-- Ranked #1 on Code4rena for [2023](https://code4rena.com/leaderboard?timeframe=2023)
+- Ranked #1 on Code4rena for 2023
 
 <img src="images/c4_leaderboard.png" width="900">
 
