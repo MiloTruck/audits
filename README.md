@@ -37,7 +37,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | Protocol | Scope | Category | Report |
 | - | - | - | :-: |
 | [Mozaic Finance](https://mozaic.finance/) | Theseus Vault | Yield, GMX V2 Integration | [📄](/engagements/trust/Mozaic%20(Thesus%20Vault).pdf) |
-| [Mozaic Finance](https://mozaic.finance/) | xMOZ Staking |Sushiswap/Synthetix Staking Rewards | [📄](//engagements/trust/Mozaic%20(xMOZ%20Staking).pdf) |
+| [Mozaic Finance](https://mozaic.finance/) | xMOZ Staking |Sushiswap/Synthetix Staking Rewards | [📄](/engagements/trust/Mozaic%20(xMOZ%20Staking).pdf) |
 
 ## Private Audits
 
