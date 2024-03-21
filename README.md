@@ -49,7 +49,6 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | [LUKSO](https://lukso.network/) | LSP0, LSP6  | Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
 | [Epoch Island](https://epochisland.io/) | ITO | Swaps | [📄](/solo/Epoch%20Island%20(ITO).pdf) |
 | [Epoch Island](https://epochisland.io/) | ITO, VeEpoch | Swaps, ERC-20 | [📄](/solo/Epoch%20Island.pdf) |
-| [Cega Finance](https://www.cega.fi/) | V2 Protocol | Perpetuals | |
 
 ## Audit Contests
 
