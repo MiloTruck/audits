@@ -34,9 +34,9 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 ### Trust Security
 
-| Protocol | Category | Report |
-| - | - | :-: |
-| [Mozaic Finance](https://mozaic.finance/) | Staking, GMX V2 Integration | [📄](/engagements/trust/Mozaic%20Thesus.pdf) |
+| Protocol | Scope | Category | Report |
+| - | - | - | :-: |
+| [Mozaic Finance](https://mozaic.finance/) | Theseus Vault | Staking, GMX V2 Integration | [📄](/engagements/trust/Mozaic%20Thesus.pdf) |
 
 ## Private Audits
 
