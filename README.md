@@ -4,7 +4,7 @@
 
 I'm an independent security researcher and 1/4th of the team at [Renascence Labs](https://renascence-labs.xyz/). 
 
-I also perform smart contract audits as a **Security Researcher** at [Spearbit](https://spearbit.com/) and **Senior Auditor** at [Trust Security](https://www.trust-security.xyz/).
+Currently, I'm a **Security Researcher** at [Spearbit](https://spearbit.com/) and **Senior Auditor** at [Trust Security](https://www.trust-security.xyz/).
 
 For private audits or security consulting, please reach out to me on Twitter [*@milotruck*](https://twitter.com/milotruck).
 
