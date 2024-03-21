@@ -23,8 +23,8 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | Protocol | Category | Report |
 | - | - | :-: |
 | [Locksmith](https://locksmithwallet.com/) | ERC-1155 | [📄](/engagements/renascence/Locksmith.pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) (V4 Protocol) | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade%20V4.pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) (ARCD Staking) | Sushiswap/Synthetix-like Staking Rewards | [📄](/engagements/renascence/Arcade%20Staking%20Rewards.pdf) |
+| [Arcade.xyz](https://www.arcade.xyz/), V4 Protocol | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade%20V4.pdf) |
+| [Arcade.xyz](https://www.arcade.xyz/), ARCD Staking | Sushiswap/Synthetix-like Staking Rewards | [📄](/engagements/renascence/Arcade%20Staking%20Rewards.pdf) |
 
 ### Spearbit
 
