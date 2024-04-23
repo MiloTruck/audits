@@ -26,7 +26,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | [Arcade.xyz](https://www.arcade.xyz/) | ARCD Staking | Sushiswap/Synthetix Staking Rewards | [📄](/engagements/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
 | [Phuture Finance](https://www.phuture.finance/) | V2 Protocol | Multi-chain Index, LayerZero & Stargate Integration | [📄](/engagements/renascence/Phuture%20Finance%20(V2).pdf) |
 | [Redacted Finance](https://redacted.finance/) | Institutional Pirex | Liquid ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf) |
-| [Locksmith](https://locksmithwallet.com/) | V1 Protocol | ERC-1155 | [📄](/engagements/renascence/Locksmith.pdf) |
+| [Locksmith](https://locksmithwallet.com/) | - | ERC-1155 | [📄](/engagements/renascence/Locksmith.pdf) |
 
 ### Spearbit
 
