@@ -18,7 +18,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 ### Renascence Labs
 
-| Protocol | Scope | Category | Report |
+| Protocol | Category |  Report |
 | - | - | - | :-: |
 | [Redacted Finance](https://redacted.finance/) | Liquid ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf) |
 | [Redacted Finance](https://redacted.finance/) | Liquid ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST).pdf) |
@@ -36,14 +36,14 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 ### Trust Security
 
-| Protocol | Scope | Category | Report |
+| Protocol | Category | Report |
 | - | - | - | :-: |
 | [Mozaic Finance](https://mozaic.finance/) | Yield Farming | [📄](/engagements/trust/Mozaic%20(Thesus%20Vault).pdf) |
 | [Mozaic Finance](https://mozaic.finance/) | Staking Rewards | [📄](/engagements/trust/Mozaic%20(xMOZ%20Staking).pdf) |
 
 ## Private Audits
 
-| Protocol | Scope | Category | Report |
+| Protocol | Category | Report |
 | - | - | - | :-: |
 | [Rodeo Finance](https://www.rodeofinance.xyz/) |  Yield Farming | [📄](/solo/Rodeo%20Finance%20(Camelot%20V3%20Strategy).pdf) | 
 | [Rodeo Finance](https://www.rodeofinance.xyz/) |  Yield Farming | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
