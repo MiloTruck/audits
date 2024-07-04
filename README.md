@@ -20,32 +20,35 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 | Protocol | Scope | Category | Report |
 | - | - | - | :-: |
-| [Arcade.xyz](https://www.arcade.xyz/) | V4 Protocol | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade.xyz%20(V4).pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) | ARCD Staking | Sushiswap/Synthetix Staking Rewards | [📄](/engagements/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
-| [Redacted Finance](https://redacted.finance/) | Institutional Pirex | Liquid ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf) |
-| [Phuture Finance](https://www.phuture.finance/) | V2 Protocol | Multi-chain Index, LayerZero & Stargate Integration | [📄](/engagements/renascence/Phuture%20Finance%20(V2).pdf) |
+| [Redacted Finance](https://redacted.finance/) | Liquid ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf) |
+| [Redacted Finance](https://redacted.finance/) | Liquid ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST).pdf) |
+| [Arcade.xyz](https://www.arcade.xyz/) | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade.xyz%20(V4).pdf) |
+| [Arcade.xyz](https://www.arcade.xyz/) | Staking Rewards | [📄](/engagements/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
+| [Phuture Finance](https://www.phuture.finance/) | Multi-chain Index | [📄](/engagements/renascence/Phuture%20Finance%20(V2).pdf) |
 
 ### Spearbit
 
 | Protocol | Category | Report |
 | - | - | :-: |
-| [Blast L2](https://blast.io/) | OP Stack, Lido & MakerDAO Integration | [📄](/engagements/spearbit/Blast%20L2.pdf) |
+| [Blast L2](https://blast.io/) | OP Stack | [📄](/engagements/spearbit/Blast%20L2.pdf) |
+| [Sushiswap](https://www.sushi.com/) | AMM | [📄](/engagements/spearbit/Sushiswap%20(RouteProcessor4).pdf) |
+| [Level Money](https://withstable.com/) | Synthetic Dollar | [📄](/engagements/spearbit/Level%20Money%20(Staking).pdf) |
 
 ### Trust Security
 
 | Protocol | Scope | Category | Report |
 | - | - | - | :-: |
-| [Mozaic Finance](https://mozaic.finance/) | Theseus Vault | Yield, GMX V2 Integration | [📄](/engagements/trust/Mozaic%20(Thesus%20Vault).pdf) |
-| [Mozaic Finance](https://mozaic.finance/) | xMOZ Staking |Sushiswap/Synthetix Staking Rewards | [📄](/engagements/trust/Mozaic%20(xMOZ%20Staking).pdf) |
+| [Mozaic Finance](https://mozaic.finance/) | Yield Farming | [📄](/engagements/trust/Mozaic%20(Thesus%20Vault).pdf) |
+| [Mozaic Finance](https://mozaic.finance/) | Staking Rewards | [📄](/engagements/trust/Mozaic%20(xMOZ%20Staking).pdf) |
 
 ## Private Audits
 
 | Protocol | Scope | Category | Report |
 | - | - | - | :-: |
-| [Rodeo Finance](https://www.rodeofinance.xyz/) | Camelot V3 Strategy | Yield, Camelot V3 Integration | [📄](/solo/Rodeo%20Finance%20(Camelot%20V3%20Strategy).pdf) | 
-| [Rodeo Finance](https://www.rodeofinance.xyz/) | GMX GM Strategy | Yield, GMX V2 Integration | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
-| [LUKSO](https://lukso.network/) | LSP4, LSP7, LSP8 | ERC-20, ERC-721 | [📄](/solo/LUKSO%20(LSP4,%20LSP7,%20LSP8).pdf) |
-| [LUKSO](https://lukso.network/) | LSP0, LSP6  | Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
+| [Rodeo Finance](https://www.rodeofinance.xyz/) |  Yield Farming | [📄](/solo/Rodeo%20Finance%20(Camelot%20V3%20Strategy).pdf) | 
+| [Rodeo Finance](https://www.rodeofinance.xyz/) |  Yield Farming | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
+| [LUKSO](https://lukso.network/) |  ERC-20, ERC-721 | [📄](/solo/LUKSO%20(LSP4,%20LSP7,%20LSP8).pdf) |
+| [LUKSO](https://lukso.network/) |  Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
 
 ## Audit Contests
 
