@@ -61,6 +61,7 @@ Reports for all audit contests can be found [here](/contests/).
 | [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance, Voting | 🥇1st | [📄](/contests/pdf/Arbitrum%20Security%20Council%20Elections.pdf) |
 | [StakeWise V3](https://app.hats.finance/audit-competitions/stakewise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/leaderboard) | Liquid ETH Staking | 🥇1st |[📄](/contests/pdf/StakeWise%20V3.pdf) |
 | [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02) | Staking | 🥇1st |  |
+| [Yolo Games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219/leaderboard) | GameFi | 🥇1st |  |
 | [Morpho Blue](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1/leaderboard) | Lending | 🥈2nd | [📄](/contests/2023-12-morpho-blue.md) |
 | [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | Lending | 🥈2nd | [📄](/contests/2023-10-wildcat.md) |
 | [Optimism Fault Proofs](https://audits.sherlock.xyz/contests/205/leaderboard) | OP Stack, Fault Proofs | 🥉3rd | |
