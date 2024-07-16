@@ -20,6 +20,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 | Protocol | Category |  Report |
 | - | - | :-: |
+| [Karak](https://karak.network/) | ETH Restaking | [📄](/engagements/renascence/Karak%20(Native%20Restaking).pdf) |
 | [Redacted Finance](https://redacted.finance/) | Liquid ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf) |
 | [Redacted Finance](https://redacted.finance/) | Cross-chain Liquid Staking Token | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST).pdf) |
 | [Arcade.xyz](https://www.arcade.xyz/) | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade.xyz%20(V4).pdf) |
@@ -31,7 +32,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | Protocol | Category | Report |
 | - | - | :-: |
 | [Blast L2](https://blast.io/) | OP Stack | [📄](/engagements/spearbit/Blast%20L2.pdf) |
-| [Sushiswap](https://www.sushi.com/) | AMM | [📄](/engagements/spearbit/Sushiswap%20(RouteProcessor4).pdf) |
+| [Sushiswap](https://www.sushi.com/) | DEX | [📄](/engagements/spearbit/Sushiswap%20(RouteProcessor4).pdf) |
 | [Level Money](https://withstable.com/) | Synthetic Dollar | [📄](/engagements/spearbit/Level%20Money%20(Staking).pdf) |
 
 ### Trust Security
