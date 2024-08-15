@@ -1,4 +1,4 @@
-## About MiloTruck
+# About MiloTruck
 
 I'm an independent security researcher and 1/4th of the team at [Renascence Labs](https://renascence-labs.xyz/). I'm also a Security Researcher at [Spearbit](https://spearbit.com/) and Senior Auditor at [Trust Security](https://www.trust-security.xyz/).
 
