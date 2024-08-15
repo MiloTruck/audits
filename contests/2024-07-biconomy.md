@@ -1,6 +1,6 @@
 # Biconomy
 
-THe code under review can be found in [2024-07-biconomy](https://github.com/Cyfrin/2024-07-biconomy)
+THe code under review can be found in [2024-07-biconomy](https://github.com/Cyfrin/2024-07-biconomy).
 
 ## Findings Summary
 
