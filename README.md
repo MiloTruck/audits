@@ -20,7 +20,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1st |[📄](/contests/2023-07-lens.md) |
 | [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance, Voting | 🥇1st | [📄](/contests/pdf/Arbitrum%20Security%20Council%20Elections.pdf) |
 | [StakeWise V3](https://app.hats.finance/audit-competitions/stakewise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/leaderboard) | Liquid ETH Staking | 🥇1st |[📄](/contests/pdf/StakeWise%20V3.pdf) |
-| [Biconomy](https://www.biconomy.io/) | Account Abstraction | 🥇1st |[📄](/contests/2024-07-biconomy.md) |
+| [Biconomy](https://codehawks.cyfrin.io/c/2024-07-biconomy/results) | Account Abstraction | 🥇1st |[📄](/contests/2024-07-biconomy.md) |
 | [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02) | Staking | 🥇1st |  |
 | [YOLO Games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219/leaderboard) | GameFi | 🥇1st |  |
 | [Morpho Blue](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1/leaderboard) | Lending | 🥈2nd | [📄](/contests/2023-12-morpho-blue.md) |
