@@ -36,6 +36,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | [Karak](https://karak.network/) | ETH Restaking | [📄](/engagements/renascence/Karak%20(Native%20Restaking).pdf) |
 | [Redacted Finance](https://redacted.finance/) | Liquid ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf) |
 | [Redacted Finance](https://redacted.finance/) | Cross-chain Liquid Staking Token | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST).pdf) |
+| [Redacted Finance](https://redacted.finance/) | Cross-chain Liquid Staking Token | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST%20v2).pdf) |
 | [Arcade.xyz](https://www.arcade.xyz/) | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade.xyz%20(V4).pdf) |
 | [Arcade.xyz](https://www.arcade.xyz/) | Staking Rewards | [📄](/engagements/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
 | [Phuture Finance](https://www.phuture.finance/) | Multi-chain Index | [📄](/engagements/renascence/Phuture%20Finance%20(V2).pdf) |
