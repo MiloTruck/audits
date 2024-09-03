@@ -26,6 +26,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | [Morpho Blue](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1/leaderboard) | Lending | 🥈2nd | [📄](/contests/2023-12-morpho-blue.md) |
 | [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | Lending | 🥈2nd | [📄](/contests/2023-10-wildcat.md) |
 | [Optimism Fault Proofs](https://audits.sherlock.xyz/contests/205/leaderboard) | OP Stack, Fault Proofs | 🥉3rd | |
+| [PoolTogether V5](https://audits.sherlock.xyz/contests/225/leaderboard) | Yield Farming | 🥉3rd | |
 
 ## Audits
 
@@ -64,6 +65,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 | Protocol | Category | Report |
 | - | - | :-: |
+| [Celo](https://celo.org/) | L2 | [📄](https://code4rena.com/reports/2024-07-celo-proleague) |
 | [Strateg](https://strateg.io/) | Yield Farming | [📄](https://code4rena.com/reports/2024-06-strateg-proleague) |
 | [Agent Exchange](https://agent.exchange/) | NFT Exchange | [📄](https://code4rena.com/reports/2024-05-agent-proleague) |
 | [Tornado Blast](https://www.tornadoblast.bot/) | ERC-20 Trading Bot | [📄](https://code4rena.com/reports/2024-06-tornadoblast-proleague) |
@@ -76,6 +78,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | [LUKSO](https://lukso.network/) | Account Abstraction | [📄](/solo/LUKSO%20(LSP0,%20LSP6).pdf) |
 | [Rodeo Finance](https://www.rodeofinance.xyz/) | Yield Farming | [📄](/solo/Rodeo%20Finance%20(Camelot%20V3%20Strategy).pdf) | 
 | [Rodeo Finance](https://www.rodeofinance.xyz/) | Yield Farming | [📄](/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) | 
+| [UpTurnOS](https://upturn.live/) | ERC-20 | [📄](/solo/UpTurnOS.md) | 
 
 ## Bug Bounty
 
