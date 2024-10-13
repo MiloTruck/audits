@@ -51,6 +51,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 | [Sushiswap](https://www.sushi.com/) | DEX | [📄](/engagements/spearbit/Sushiswap%20(RouteProcessor4).pdf) |
 | [Sushiswap](https://www.sushi.com/) | DEX | [📄](/engagements/spearbit/Sushiswap%20(RouteProcessor5).pdf) |
 | [Level Money](https://withstable.com/) | Synthetic Dollar | [📄](/engagements/spearbit/Level%20Money%20(Staking).pdf) |
+| [Level Money](https://withstable.com/) | Synthetic Dollar | [📄](/engagements/spearbit/Level%20Money%20(Stablecoin%20LST).pdf) |
 | [Degen](https://www.degen.tips/) | ERC-20 | [📄](/engagements/spearbit/Level%20Money%20(Staking).pdf) |
 
 ### Trust Security
