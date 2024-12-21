@@ -21,7 +21,6 @@ A complete list of all my audits.
 | April | Renascence Labs | [Dinero](https://dinero.xyz/) | ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf) |
 | May | Spearbit | [Level Money](https://www.level.money/) | Yield-bearing Stablecoin | |
 | May | Renascence Labs | [Magna](https://www.magna.so/) | Token Vesting | |
-| June | Renascence Labs | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST).pdf) |
 | May | Trust Security | [Degen Express](https://degen.express/) | Token Launchpad | [📄](/engagements/trust/Degen%20Express.pdf) |
 | June | Spearbit | [Level Money](https://www.level.money/) | Yield-bearing Stablecoin | [📄](/engagements/spearbit/Level%20Money%20(Staking).pdf) |
 | June | Code4rena | [Tornado Blast](https://www.tornadoblast.bot/) | Trading Bot | [📄](https://code4rena.com/reports/2024-06-tornadoblast-proleague) |
@@ -29,6 +28,7 @@ A complete list of all my audits.
 | July | Spearbit | [Degen](https://www.degen.tips/) | ERC-20 | [📄](/engagements/spearbit/Degen.pdf) |
 | July | Spearbit | [Sushiswap](https://www.sushi.com/) | DEX | [📄](/engagements/spearbit/Sushiswap%20(RouteProcessor5).pdf) |
 | July | Renascence Labs | [Karak](https://karak.network/) | ETH Staking | [📄](/engagements/renascence/Karak%20(Native%20Restaking).pdf) |
+| June | Renascence Labs | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST).pdf) |
 | July | Code4rena | [Agent Exchange](https://agent.exchange/) | NFT Exchange | [📄](https://code4rena.com/reports/2024-05-agent-proleague) |
 | July | Code4rena | [Celo](https://celo.org/) | L2 | [📄](https://code4rena.com/reports/2024-07-celo-proleague) |
 | July | Independent | [upturnOS](https://upturn.live/) | NFT | [📄](/solo/UpTurnOS.md) |
