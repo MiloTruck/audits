@@ -7,6 +7,8 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 ### Highlights
 
 - [Code4rena Profile](https://code4rena.com/@MiloTruck)
+- [Cantina Profile](https://cantina.xyz/u/milotruck)
+- [Immunefi Profile](https://immunefi.com/profile/milotruck/)
 - [Blog: A year of Competitive Audits](https://milotruck.github.io/blog/A-year-of-Competitive-Audits/)
 - Ranked #1 on Code4rena for 2023
 
