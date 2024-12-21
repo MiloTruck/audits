@@ -30,7 +30,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 ## Audits
 
-A list of all my audits can be found [here](/audits.md)
+A complete list of all audits can be found [here](/audits.md).
 
 ### Highlights
 
