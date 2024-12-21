@@ -54,6 +54,8 @@ A complete list of all my audits.
 | December | Spearbit | [Flood](https://www.flood.bid/) | DEX Aggregator | |
 | December | Renascence Labs | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Staked%20S).pdf) |
 | December | Renascence Labs | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | |
+| December | Independent | [Optimism](https://www.optimism.io/) | Gnosis Safe Modules | |
+| December | Independent | [Optimism](https://www.optimism.io/) | L2 | |
 
 ## 2023
 
