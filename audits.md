@@ -31,6 +31,7 @@ A complete list of all my audits.
 | July | Renascence Labs | [Karak](https://karak.network/) | ETH Staking | [📄](/engagements/renascence/Karak%20(Native%20Restaking).pdf) |
 | July | Code4rena | [Agent Exchange](https://agent.exchange/) | NFT Exchange | [📄](https://code4rena.com/reports/2024-05-agent-proleague) |
 | July | Code4rena | [Celo](https://celo.org/) | L2 | [📄](https://code4rena.com/reports/2024-07-celo-proleague) |
+| July | Independent | [upturnOS](https://upturn.live/) | NFT | [📄](/solo/UpTurnOS.md) |
 | August | Renascence Labs | [Identity.com](https://www.identity.com/) | Decentralized Identifiers (DID) | |
 | August | Renascence Labs | [g8keep](https://g8.xyz/) | Token Launchpad | [📄](/engagements/renascence/G8Keep.pdf) |
 | August | Renascence Labs | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST%20v2).pdf) |
@@ -40,6 +41,7 @@ A complete list of all my audits.
 | September | Spearbit | [Level Money](https://www.level.money/) | Yield-bearing Stablecoin | [📄](/engagements/spearbit/Level%20Money%20(Stablecoin%20LST).pdf) |
 | September | Renascence Labs | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Stargate%20LST).pdf) |
 | September | Renascence Labs | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Arbitrum%20LST).pdf) |
+| September | Independent | [Inkso](https://inkso.xyz/) | NFT | [📄](/solo/Inkso.md) |
 | October | Spearbit | [YieldFi](https://yield.fi/) | Cross-chain Staking | |
 | October | Spearbit | [Sorella](https://sorellalabs.xyz/) | Uniswap V4 Hook | [📄](/engagements/spearbit/Sorella%20(Angstrom).pdf) |
 | October | Renascence Labs | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | |
@@ -62,5 +64,3 @@ A complete list of all my audits.
 | December | Independent | [Rodeo Finance](https://www.rodeofinance.xyz/) | Yield Farming | [📄](/Independent/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) |
 | October | Independent | [LUKSO](https://lukso.network/) | Account Abstraction | [📄](/Independent/LUKSO%20(LSP0%2C%20LSP6).pdf) |
 | December | Independent | [Rodeo Finance](https://www.rodeofinance.xyz/) | Yield Farming | [📄](/Independent/Rodeo%20Finance%20(Camelot%20V3%20Strategy).pdf) |
-
-upturnos inkso
