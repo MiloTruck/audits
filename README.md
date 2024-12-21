@@ -12,27 +12,9 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 <img src="images/c4_leaderboard.png" width="900">
 
-## Audit Contests
-
-| Contest | Category | Ranking | Report |
-| - | - | :-: | :-: |
-| [LUKSO](https://code4rena.com/contests/2023-06-lukso) | ERC-20, ERC-721, Account Abstraction | 🥇1st | [📄](/contests/pdf/LUKSO.pdf) |
-| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1st |[📄](/contests/2023-07-lens.md) |
-| [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance, Voting | 🥇1st | [📄](/contests/pdf/Arbitrum%20Security%20Council%20Elections.pdf) |
-| [StakeWise V3](https://app.hats.finance/audit-competitions/stakewise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/leaderboard) | Liquid ETH Staking | 🥇1st |[📄](/contests/pdf/StakeWise%20V3.pdf) |
-| [Biconomy](https://codehawks.cyfrin.io/c/2024-07-biconomy/results) | Account Abstraction | 🥇1st |[📄](/contests/2024-07-biconomy.md) |
-| [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02) | Staking | 🥇1st |  |
-| [YOLO Games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219/leaderboard) | GameFi | 🥇1st |  |
-| [Morpho Blue](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1/leaderboard) | Lending | 🥈2nd | [📄](/contests/2023-12-morpho-blue.md) |
-| [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | Lending | 🥈2nd | [📄](/contests/2023-10-wildcat.md) |
-| [Optimism Fault Proofs](https://audits.sherlock.xyz/contests/205/leaderboard) | OP Stack, Fault Proofs | 🥉3rd | |
-| [PoolTogether V5](https://audits.sherlock.xyz/contests/225/leaderboard) | Yield Farming | 🥉3rd | |
-
 ## Audits
 
 A complete list of all audits can be found [here](/audits.md).
-
-### Highlights
 
 | Protocol | Category |  Report |
 | - | - | :-: |
@@ -57,6 +39,24 @@ A complete list of all audits can be found [here](/audits.md).
 | [dHedge](https://dhedge.org/) | Bridge | [📄](/engagements/trust/dHedge.pdf) |
 | [g8keep](https://g8.xyz/) | Token Launchpad | [📄](/engagements/renascence/G8Keep.pdf) |
 | [Strateg](https://strateg.io/) | Yield Farming | [📄](https://code4rena.com/reports/2024-06-strateg-proleague) |
+
+## Contests
+
+A complete list of all contests can be found [here](/contests.md).
+
+| Contest | Category | Ranking | Report |
+| - | - | :-: | :-: |
+| [LUKSO](https://code4rena.com/contests/2023-06-lukso) | ERC-20, ERC-721, Account Abstraction | 🥇1st | [📄](/contests/pdf/LUKSO.pdf) |
+| [Lens Protocol V2](https://code4rena.com/contests/2023-07-lens-protocol-v2) | Social Network | 🥇1st |[📄](/contests/2023-07-lens.md) |
+| [Arbitrum Security Council Elections](https://code4rena.com/contests/2023-08-arbitrum-security-council-election-system) | Governance, Voting | 🥇1st | [📄](/contests/pdf/Arbitrum%20Security%20Council%20Elections.pdf) |
+| [StakeWise V3](https://app.hats.finance/audit-competitions/stakewise-0xd91cd6ed6c9a112fdc112b1a3c66e47697f522cd/leaderboard) | Liquid ETH Staking | 🥇1st |[📄](/contests/pdf/StakeWise%20V3.pdf) |
+| [Biconomy](https://codehawks.cyfrin.io/c/2024-07-biconomy/results) | Account Abstraction | 🥇1st |[📄](/contests/2024-07-biconomy.md) |
+| [Chainlink Staking v0.2](https://code4rena.com/contests/2023-08-chainlink-staking-v02) | Staking | 🥇1st |  |
+| [YOLO Games](https://cantina.xyz/competitions/a2c3cc6a-e384-495f-9751-5d7e657bc219/leaderboard) | GameFi | 🥇1st |  |
+| [Morpho Blue](https://cantina.xyz/competitions/d86b7f95-e574-4092-8ea2-78dcac2f54f1/leaderboard) | Lending | 🥈2nd | [📄](/contests/2023-12-morpho-blue.md) |
+| [Wildcat](https://code4rena.com/contests/2023-10-the-wildcat-protocol) | Lending | 🥈2nd | [📄](/contests/2023-10-wildcat.md) |
+| [Optimism Fault Proofs](https://audits.sherlock.xyz/contests/205/leaderboard) | OP Stack, Fault Proofs | 🥉3rd | |
+| [PoolTogether V5](https://audits.sherlock.xyz/contests/225/leaderboard) | Yield Farming | 🥉3rd | |
 
 ## Bug Bounty
 
