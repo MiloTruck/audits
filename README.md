@@ -18,31 +18,19 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 A complete list of all audits can be found [here](/audits.md).
 
-| Protocol | Category |  Report |
-| - | - | :-: |
-| [Blast](https://blast.io/) | L2 | [📄](/engagements/spearbit/Blast%20L2.pdf) |
-| [Juice Finance](https://www.juice.finance/) | Leveraged Yield Farming | [📄](/engagements/trust/dHedge.pdf) |
-| [Sorella](https://sorellalabs.xyz/) | Uniswap V4 Hook | [📄](/engagements/spearbit/Sorella%20(Angstrom).pdf) |
-| [Karak](https://karak.network/) | ETH Restaking | [📄](/engagements/renascence/Karak%20(Native%20Restaking).pdf) |
-| [Sushiswap](https://www.sushi.com/) | DEX | [📄](/engagements/spearbit/Sushiswap%20(RouteProcessor4).pdf) |
-| [Sushiswap](https://www.sushi.com/) | DEX | [📄](/engagements/spearbit/Sushiswap%20(RouteProcessor5).pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade.xyz%20(V4).pdf) |
-| [Dinero](https://dinero.xyz/) | ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf) |
-| [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST).pdf) |
-| [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST%20v2).pdf) |
-| [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Stargate%20LST).pdf) |
-| [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Arbitrum%20LST).pdf) |
-| [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Super%20ETH).pdf) |
-| [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Staked%20S).pdf) |
-| [Level Money](https://www.level.money/) | Yield-bearing Stablecoin | [📄](/engagements/spearbit/Level%20Money%20(Staking).pdf) |
-| [Level Money](https://www.level.money/) | Yield-bearing Stablecoin | [📄](/engagements/spearbit/Level%20Money%20(Stablecoin%20LST).pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) | Staking Rewards | [📄](/engagements/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
-| [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [📄](/engagements/renascence/Rhinestone%20(Smart%20Sessions).pdf) |
-| [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [📄](/engagements/renascence/Rhinestone%20(Smart%20Sessions%20Update).pdf) |
-| [Phuture Finance](https://www.phuture.finance/) | Multi-chain Index Fund | [📄](/engagements/renascence/Phuture%20Finance%20(V2).pdf) |
-| [dHedge](https://dhedge.org/) | Bridge | [📄](/engagements/trust/dHedge.pdf) |
-| [g8keep](https://g8.xyz/) | Token Launchpad | [📄](/engagements/renascence/G8Keep.pdf) |
-| [Strateg](https://strateg.io/) | Yield Farming | [📄](https://code4rena.com/reports/2024-06-strateg-proleague) |
+| Protocol | Category |  Reports |
+| - | - | :- |
+| [Blast](https://blast.io/) | L2 | [[1]](/engagements/spearbit/Blast%20L2.pdf) |
+| [Karak](https://karak.network/) | Restaking | [[1]](/engagements/renascence/Karak%20(Native%20Restaking).pdf) |
+| [Juice Finance](https://www.juice.finance/) | Leveraged Farming | [[1]](/engagements/trust/dHedge.pdf) |
+| [Sorella](https://sorellalabs.xyz/) | DEX | [[1]](/engagements/spearbit/Sorella%20(Angstrom).pdf) |
+| [Sushiswap](https://www.sushi.com/) | DEX | [[1]](/engagements/spearbit/Sushiswap%20(RouteProcessor4).pdf), [[2]](/engagements/spearbit/Sushiswap%20(RouteProcessor5).pdf) |
+| [Dinero](https://dinero.xyz/) | Liquid Staking | [[1]](/engagements/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf), [[2]](/engagements/renascence/Redacted%20Finance%20(Branded%20LST).pdf), [[3]](/engagements/renascence/Redacted%20Finance%20(Branded%20LST%20v2).pdf), [[4]](/engagements/renascence/Dinero%20(Stargate%20LST).pdf), [[5]](/engagements/renascence/Dinero%20(Arbitrum%20LST).pdf), [[6]](/engagements/renascence/Dinero%20(Super%20ETH).pdf), [[7]](/engagements/renascence/Dinero%20(Staked%20S).pdf) |
+| [Level Money](https://www.level.money/) | Stablecoin | [[1]](/engagements/spearbit/Level%20Money%20(Staking).pdf), [[2]](/engagements/spearbit/Level%20Money%20(Stablecoin%20LST).pdf) |
+| [dHedge](https://dhedge.org/) | Bridge | [[1]](/engagements/trust/dHedge.pdf) |
+| [Arcade.xyz](https://www.arcade.xyz/) | NFT Lending | [[1]](/engagements/renascence/Arcade.xyz%20(V4).pdf), [[2]](/engagements/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
+| [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [[1]](/engagements/renascence/Rhinestone%20(Smart%20Sessions).pdf), [[2]](/engagements/renascence/Rhinestone%20(Smart%20Sessions%20Update).pdf) |
+| [Phuture Finance](https://www.phuture.finance/) | Index | [[1]](/engagements/renascence/Phuture%20Finance%20(V2).pdf) |
 
 ## Contests
 
