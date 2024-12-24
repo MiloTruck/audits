@@ -44,7 +44,7 @@ A complete list of all my audits.
 | September | Independent | [Inkso](https://inkso.xyz/) | NFT | [📄](/solo/Inkso.md) |
 | October | Spearbit | [YieldFi](https://yield.fi/) | Cross-chain Staking | |
 | October | Spearbit | [Sorella](https://sorellalabs.xyz/) | Uniswap V4 Hook | [📄](/engagements/spearbit/Sorella%20(Angstrom).pdf) |
-| October | Renascence Labs | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | |
+| October | Renascence Labs | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [📄](/engagements/renascence/Rhinestone%20(Smart%20Sessions).pdf) |
 | October | Trust Security | [Kayen](https://www.kayen.org/) | Token Launchpad | |
 | November | Renascence Labs | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Super%20ETH).pdf) |
 | November | Independent | [Optimism](https://www.optimism.io/) | L2 | |
@@ -53,7 +53,7 @@ A complete list of all my audits.
 | December | Spearbit | [Agents.Fun](https://www.agents.fun/) | Token Launchpad | [📄](/engagements/spearbit/Agents.Fun.pdf) |
 | December | Spearbit | [Flood](https://www.flood.bid/) | DEX Aggregator | |
 | December | Renascence Labs | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Staked%20S).pdf) |
-| December | Renascence Labs | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | |
+| December | Renascence Labs | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [📄](/engagements/renascence/Rhinestone%20(Smart%20Sessions%20Update).pdf) |
 | December | Independent | [Optimism](https://www.optimism.io/) | Gnosis Safe Modules | |
 | December | Independent | [Optimism](https://www.optimism.io/) | L2 | |
 

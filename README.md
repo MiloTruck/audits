@@ -27,7 +27,6 @@ A complete list of all audits can be found [here](/audits.md).
 | [Sushiswap](https://www.sushi.com/) | DEX | [📄](/engagements/spearbit/Sushiswap%20(RouteProcessor4).pdf) |
 | [Sushiswap](https://www.sushi.com/) | DEX | [📄](/engagements/spearbit/Sushiswap%20(RouteProcessor5).pdf) |
 | [Arcade.xyz](https://www.arcade.xyz/) | NFT-collateralized Lending | [📄](/engagements/renascence/Arcade.xyz%20(V4).pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) | Staking Rewards | [📄](/engagements/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
 | [Dinero](https://dinero.xyz/) | ETH Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf) |
 | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST).pdf) |
 | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Redacted%20Finance%20(Branded%20LST%20v2).pdf) |
@@ -37,6 +36,9 @@ A complete list of all audits can be found [here](/audits.md).
 | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Staked%20S).pdf) |
 | [Level Money](https://www.level.money/) | Yield-bearing Stablecoin | [📄](/engagements/spearbit/Level%20Money%20(Staking).pdf) |
 | [Level Money](https://www.level.money/) | Yield-bearing Stablecoin | [📄](/engagements/spearbit/Level%20Money%20(Stablecoin%20LST).pdf) |
+| [Arcade.xyz](https://www.arcade.xyz/) | Staking Rewards | [📄](/engagements/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
+| [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [📄](/engagements/renascence/Rhinestone%20(Smart%20Sessions).pdf) |
+| [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [📄](/engagements/renascence/Rhinestone%20(Smart%20Sessions%20Update).pdf) |
 | [Phuture Finance](https://www.phuture.finance/) | Multi-chain Index Fund | [📄](/engagements/renascence/Phuture%20Finance%20(V2).pdf) |
 | [dHedge](https://dhedge.org/) | Bridge | [📄](/engagements/trust/dHedge.pdf) |
 | [g8keep](https://g8.xyz/) | Token Launchpad | [📄](/engagements/renascence/G8Keep.pdf) |
