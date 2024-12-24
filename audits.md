@@ -50,7 +50,7 @@ A complete list of all my audits.
 | November | Independent | [Optimism](https://www.optimism.io/) | L2 | |
 | December | Spearbit | [Clave](https://getclave.io/) | Yield Farming | |
 | December | Spearbit | [Morpho](https://morpho.org/) | Lending | |
-| December | Spearbit | [Agents.Fun](https://www.agents.fun/) | Token Launchpad | |
+| December | Spearbit | [Agents.Fun](https://www.agents.fun/) | Token Launchpad | [📄](/engagements/spearbit/Agents.Fun.pdf) |
 | December | Spearbit | [Flood](https://www.flood.bid/) | DEX Aggregator | |
 | December | Renascence Labs | [Dinero](https://dinero.xyz/) | Cross-chain Staking | [📄](/engagements/renascence/Dinero%20(Staked%20S).pdf) |
 | December | Renascence Labs | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | |
