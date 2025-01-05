@@ -48,10 +48,10 @@ A complete list of all my audits.
 | October | Trust Security | [Kayen](https://www.kayen.org/) | Token Launchpad | |
 | November | Renascence Labs | [Dinero](https://dinero.xyz/) | Liquid Staking | [📄](/engagements/renascence/Dinero%20(Super%20ETH).pdf) |
 | November | Independent | [Optimism](https://www.optimism.io/) | L2 | |
-| December | Spearbit | [Clave](https://getclave.io/) | Farming | |
-| December | Spearbit | [Morpho](https://morpho.org/) | Lending | |
+| December | Spearbit | [Clave](https://getclave.io/) | Yield | |
+| December | Spearbit | [Morpho](https://morpho.org/) | Lending | [📄](/engagements/spearbit/Morpho%20(Bundler%20V3).pdf) |
 | December | Spearbit | [Agents.Fun](https://www.agents.fun/) | Token Launchpad | [📄](/engagements/spearbit/Agents.Fun.pdf) |
-| December | Spearbit | [Flood](https://www.flood.bid/) | DEX | |
+| December | Spearbit | [Flood](https://www.flood.bid/) | DEX | [📄](/engagements/spearbit/Flood.pdf) |
 | December | Renascence Labs | [Dinero](https://dinero.xyz/) | Liquid Staking | [📄](/engagements/renascence/Dinero%20(Staked%20S).pdf) |
 | December | Renascence Labs | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [📄](/engagements/renascence/Rhinestone%20(Smart%20Sessions%20Update).pdf) |
 | December | Independent | [Optimism](https://www.optimism.io/) | Account Abstraction | |

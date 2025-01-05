@@ -6,9 +6,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
 
 ### Highlights
 
-- [Code4rena Profile](https://code4rena.com/@MiloTruck)
-- [Cantina Profile](https://cantina.xyz/u/milotruck)
-- [Immunefi Profile](https://immunefi.com/profile/milotruck/)
+- Profiles: [Code4rena](https://code4rena.com/@MiloTruck), [Cantina](https://cantina.xyz/u/milotruck), [Immunefi](https://immunefi.com/profile/milotruck/)
 - [Blog: A year of Competitive Audits](https://milotruck.github.io/blog/A-year-of-Competitive-Audits/)
 - Ranked #1 on Code4rena for 2023
 
@@ -20,6 +18,7 @@ A complete list of all audits can be found [here](/audits.md).
 
 | Protocol | Category |  Reports |
 | - | - | :- |
+| [Morpho](https://morpho.org/) | Lending | [[1]](/engagements/spearbit/Morpho%20(Bundler%20V3).pdf) |
 | [Blast](https://blast.io/) | L2 | [[1]](/engagements/spearbit/Blast%20L2.pdf) |
 | [Karak](https://karak.network/) | Restaking | [[1]](/engagements/renascence/Karak%20(Native%20Restaking).pdf) |
 | [Juice Finance](https://www.juice.finance/) | Leveraged Farming | [[1]](/engagements/trust/dHedge.pdf) |
