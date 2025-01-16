@@ -6,7 +6,7 @@ A complete list of all my audits.
 
 | Month | Organization | Protocol | Type | Report |
 | - | - | - | - | :-: |
-| January | Independent | [Collar](https://www.collarprotocol.xyz/) | Lending | [📄](/audits/spearbit/Collar.pdf)  |
+| January | Spearbit | [Collar](https://www.collarprotocol.xyz/) | Lending | [📄](/audits/spearbit/Collar.pdf)  |
 
 ## 2024
 
