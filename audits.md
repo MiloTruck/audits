@@ -6,7 +6,15 @@ A complete list of all my audits.
 
 | Month | Organization | Protocol | Type | Report |
 | - | - | - | - | :-: |
-| January | Spearbit | [Collar](https://www.collarprotocol.xyz/) | Lending | [📄](/audits/spearbit/Collar.pdf)  |
+| January | Spearbit | [Collar](https://www.collarprotocol.xyz/) | Lending | [📄](/audits/spearbit/Collar.pdf) |
+| January | Spearbit | [Angles](https://angles.fi/) | Liquid Staking | |
+| January | Independent | [Stakingverse](https://stakingverse.io/) | Liquid Staking | [📄](/audits/solo/Stakingverse.pdf) |
+| January | Spearbit | [Optimism](https://www.optimism.io/) | L2 | |
+| January | Trust Security | [Tea](https://tea.xyz/) | L2 | |
+| February | Independent | [Trustswap](https://trustswap.org/) | Staking, Token Vesting | |
+| February | Independent | [Celo](https://celo.org/) | L2 | |
+| February | Spearbit | [Morpho](https://morpho.org/) | Lending | |
+| February | Independent | [Collar](https://www.collarprotocol.xyz/) | Lending | |
 
 ## 2024
 
