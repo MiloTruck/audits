@@ -20,7 +20,7 @@ A complete list of all audits can be found [here](/audits.md).
 | - | - | :- |
 | [Optimism](https://www.optimism.io/) | L2 | [[1]](/audits/solo/Optimism%20(DeputyPauseModule).pdf) |
 | [Blast](https://blast.io/) | L2 | [[1]](/audits/spearbit/Blast%20L2.pdf) |
-| [Morpho](https://morpho.org/) | Lending | [[1]](/audits/spearbit/Morpho%20(Bundler%20V3).pdf) |
+| [Morpho](https://morpho.org/) | Lending | [[1]](/audits/spearbit/Morpho%20(Bundler%20V3).pdf), [[2]](/audits/spearbit/Morpho%20(Bundler3).pdf) |
 | [Karak](https://karak.network/) | Restaking | [[1]](/audits/renascence/Karak%20(Native%20Restaking).pdf) |
 | [Juice Finance](https://www.juice.finance/) | Leveraged Farming | [[1]](/audits/trust/dHedge.pdf) |
 | [Sorella](https://sorellalabs.xyz/) | DEX | [[1]](/audits/spearbit/Sorella%20(Angstrom).pdf) |

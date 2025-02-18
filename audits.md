@@ -13,7 +13,7 @@ A complete list of all my audits.
 | January | Trust Security | [Tea](https://tea.xyz/) | L2 | |
 | February | Independent | [Trustswap](https://trustswap.org/) | Staking, Token Vesting | |
 | February | Independent | [Celo](https://celo.org/) | L2 | |
-| February | Spearbit | [Morpho](https://morpho.org/) | Lending | |
+| February | Spearbit | [Morpho](https://morpho.org/) | Lending | [📄](/audits/spearbit/Morpho%20(Bundler3).pdf) |
 | February | Independent | [Collar](https://www.collarprotocol.xyz/) | Lending | |
 
 ## 2024
