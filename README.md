@@ -1,6 +1,6 @@
 # About MiloTruck
 
-I'm an independent security researcher and primarily work as a Lead Security Researcher at [Spearbit](https://spearbit.com/)/[Cantina](https://cantina.xyz/). Previously, I was 1/4th of the team at [Renascence Labs](https://renascence-labs.xyz/) and a Lead Auditor at [Trust Security](https://www.trust-security.xyz/).
+I'm an independent security researcher and a Lead Security Researcher at [Spearbit](https://spearbit.com/)/[Cantina](https://cantina.xyz/). Previously, I was part of the team at [Renascence Labs](https://renascence-labs.xyz/) and a Lead Auditor at [Trust Security](https://www.trust-security.xyz/).
 
 For private audits or security consulting, please reach out to me on Twitter [*@milotruck*](https://twitter.com/milotruck).
 
