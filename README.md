@@ -1,13 +1,16 @@
 # About MiloTruck
 
-I'm an independent security researcher and 1/4th of the team at [Renascence Labs](https://renascence-labs.xyz/). I'm also a Lead Security Researcher at [Spearbit](https://spearbit.com/) and Lead Auditor at [Trust Security](https://www.trust-security.xyz/).
+I'm an independent security researcher and primarily work as a Lead Security Researcher at [Spearbit](https://spearbit.com/)/[Cantina](https://cantina.xyz/). Previously, I was 1/4th of the team at [Renascence Labs](https://renascence-labs.xyz/) and a Lead Auditor at [Trust Security](https://www.trust-security.xyz/).
 
 For private audits or security consulting, please reach out to me on Twitter [*@milotruck*](https://twitter.com/milotruck).
 
 ### Highlights
 
-- Profiles: [Code4rena](https://code4rena.com/@MiloTruck), [Cantina](https://cantina.xyz/u/milotruck), [Immunefi](https://immunefi.com/profile/milotruck/)
-- [Blog: A year of Competitive Audits](https://milotruck.github.io/blog/A-year-of-Competitive-Audits/)
+- Profiles: 
+  - [Cantina](https://cantina.xyz/u/milotruck)
+  - [Code4rena](https://code4rena.com/@MiloTruck)
+  - [Immunefi](https://immunefi.com/profile/milotruck/)
+- [50 audits in 2024](https://github.com/MiloTruck/audits/blob/main/audits.md#2024)
 - Ranked #1 on Code4rena for 2023
 
 <img src="images/c4_leaderboard.png" width="900">
