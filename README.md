@@ -10,7 +10,7 @@ For private audits or security consulting, please reach out to me on Twitter [*@
   - [Cantina](https://cantina.xyz/u/milotruck)
   - [Code4rena](https://code4rena.com/@MiloTruck)
   - [Immunefi](https://immunefi.com/profile/milotruck/)
-- Lead [50 audits in 2024](https://github.com/MiloTruck/audits/blob/main/audits.md#2024)
+- [Completed 50 audits in 2024](https://github.com/MiloTruck/audits/blob/main/audits.md)
 - Ranked #1 on Code4rena for 2023
 
 <img src="images/c4_leaderboard.png" width="900">
@@ -24,6 +24,7 @@ A complete list of all audits can be found [here](/audits.md).
 | [Optimism](https://www.optimism.io/) | L2 | [[1]](/audits/solo/Optimism%20(DeputyPauseModule).pdf) |
 | [Blast](https://blast.io/) | L2 | [[1]](/audits/spearbit/Blast%20L2.pdf) |
 | [Morpho](https://morpho.org/) | Lending | [[1]](/audits/spearbit/Morpho%20(Bundler%20V3).pdf), [[2]](/audits/spearbit/Morpho%20(Bundler3).pdf) |
+| [Collar](https://www.collarprotocol.xyz/) | Lending | [📄](/audits/spearbit/Collar.pdf) |
 | [Karak](https://karak.network/) | Restaking | [[1]](/audits/renascence/Karak%20(Native%20Restaking).pdf) |
 | [Juice Finance](https://www.juice.finance/) | Leveraged Farming | [[1]](/audits/trust/dHedge.pdf) |
 | [Sorella](https://sorellalabs.xyz/) | DEX | [[1]](/audits/spearbit/Sorella%20(Angstrom).pdf) |
