@@ -24,7 +24,7 @@ A complete list of all audits can be found [here](/audits.md).
 | [Optimism](https://www.optimism.io/) | L2 | [[1]](/audits/solo/Optimism%20(DeputyPauseModule).pdf) |
 | [Blast](https://blast.io/) | L2 | [[1]](/audits/spearbit/Blast%20L2.pdf) |
 | [Morpho](https://morpho.org/) | Lending | [[1]](/audits/spearbit/Morpho%20(Bundler%20V3).pdf), [[2]](/audits/spearbit/Morpho%20(Bundler3).pdf) |
-| [Collar](https://www.collarprotocol.xyz/) | Lending | [📄](/audits/spearbit/Collar.pdf) |
+| [Collar](https://www.collarprotocol.xyz/) | Lending | [1](/audits/spearbit/Collar.pdf) |
 | [Karak](https://karak.network/) | Restaking | [[1]](/audits/renascence/Karak%20(Native%20Restaking).pdf) |
 | [Juice Finance](https://www.juice.finance/) | Leveraged Farming | [[1]](/audits/trust/dHedge.pdf) |
 | [Sorella](https://sorellalabs.xyz/) | DEX | [[1]](/audits/spearbit/Sorella%20(Angstrom).pdf) |
@@ -34,7 +34,6 @@ A complete list of all audits can be found [here](/audits.md).
 | [dHedge](https://dhedge.org/) | Bridge | [[1]](/audits/trust/dHedge.pdf) |
 | [Arcade.xyz](https://www.arcade.xyz/) | NFT Lending | [[1]](/audits/renascence/Arcade.xyz%20(V4).pdf), [[2]](/audits/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
 | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [[1]](/audits/renascence/Rhinestone%20(Smart%20Sessions).pdf), [[2]](/audits/renascence/Rhinestone%20(Smart%20Sessions%20Update).pdf) |
-| [Phuture Finance](https://www.phuture.finance/) | Index | [[1]](/audits/renascence/Phuture%20Finance%20(V2).pdf) |
 
 ## Contests
 
