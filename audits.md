@@ -9,12 +9,15 @@ A complete list of all my audits.
 | January | Spearbit | [Collar](https://www.collarprotocol.xyz/) | Lending | [📄](/audits/spearbit/Collar.pdf) |
 | January | Spearbit | [Angles](https://angles.fi/) | Liquid Staking | |
 | January | Independent | [Stakingverse](https://stakingverse.io/) | Liquid Staking | [📄](/audits/solo/Stakingverse.pdf) |
-| January | Spearbit | [Optimism](https://www.optimism.io/) | L2 | |
+| January | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Upgrade%2013).pdf) |
 | January | Trust Security | [Tea](https://tea.xyz/) | L2 | |
 | February | Independent | [Trustswap](https://trustswap.org/) | Staking, Token Vesting | |
-| February | Independent | [Celo](https://celo.org/) | L2 | |
+| February | Independent | [Celo](https://celo.org/) | L2 | [📄](/audits/spearbit/Celo.pdf) |
 | February | Spearbit | [Morpho](https://morpho.org/) | Lending | [📄](/audits/spearbit/Morpho%20(Bundler3).pdf) |
 | February | Independent | [Collar](https://www.collarprotocol.xyz/) | Lending | |
+| February | Spearbit | [Presto](https://github.com/Presto-Labs) | Token Launchpad | |
+| February | Spearbit | [Optimism](https://www.optimism.io/) | L2 | |
+| March | Spearbit | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction |  |
 
 ## 2024
 
