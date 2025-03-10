@@ -16,7 +16,7 @@ A complete list of all my audits.
 | February | Spearbit | [Morpho](https://morpho.org/) | Lending | [📄](/audits/spearbit/Morpho%20(Bundler3).pdf) |
 | February | Independent | [Collar](https://www.collarprotocol.xyz/) | Lending | |
 | February | Spearbit | [Presto](https://github.com/Presto-Labs) | Token Launchpad | |
-| February | Spearbit | [Optimism](https://www.optimism.io/) | L2 | |
+| February | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Pectra%20Upgrade).pdf) |
 | March | Spearbit | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction |  |
 
 ## 2024
