@@ -25,7 +25,7 @@ A complete list of all my audits.
 | - | - | - | - | :-: |
 | January | Spearbit | [Blast](https://blast.io/) | L2 | [📄](/audits/spearbit/Blast%20L2.pdf) |
 | January | Renascence Labs | [Locksmith](https://locksmithwallet.com/) | ERC-1155 | [📄](/audits/renascence/Locksmith.pdf) |
-| January | Independent | [LUKSO](https://lukso.network/) | ERC-20, ERC-721 | [📄](/Independent/LUKSO%20(LSP4%2C%20LSP7%2C%20LSP8).pdf) |
+| January | Independent | [LUKSO](https://lukso.network/) | ERC-20, ERC-721 | [📄](/audits/solo/LUKSO%20(LSP4%2C%20LSP7%2C%20LSP8).pdf) |
 | January | Independent | [Cega Finance](https://www.cega.fi/) | Derivatives | |
 | February | Renascence Labs | [Arcade.xyz](https://www.arcade.xyz/) | NFT Lending | [📄](/audits/renascence/Arcade.xyz%20(V4).pdf) |
 | February | Trust Security | [Mozaic Finance](https://mozaic.finance/) | Yield | [📄](/audits/trust/Mozaic%20(Thesus%20Vault).pdf) |
@@ -80,6 +80,6 @@ A complete list of all my audits.
 | - | - | - | - | :-: |
 | November | Spearbit | [Sushiswap](https://www.sushi.com/) | DEX | [📄](/audits/spearbit/Sushiswap%20(RouteProcessor4).pdf) |
 | November | Independent | [Cega Finance](https://www.cega.fi/) | Derivatives | |
-| December | Independent | [Rodeo Finance](https://www.rodeofinance.xyz/) | Yield | [📄](/Independent/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) |
-| October | Independent | [LUKSO](https://lukso.network/) | Account Abstraction | [📄](/Independent/LUKSO%20(LSP0%2C%20LSP6).pdf) |
-| December | Independent | [Rodeo Finance](https://www.rodeofinance.xyz/) | Yield | [📄](/Independent/Rodeo%20Finance%20(Camelot%20V3%20Strategy).pdf) |
+| December | Independent | [Rodeo Finance](https://www.rodeofinance.xyz/) | Yield | [📄](/audits/solo/Rodeo%20Finance%20(GMX%20GM%20Strategy).pdf) |
+| October | Independent | [LUKSO](https://lukso.network/) | Account Abstraction | [📄](/audits/solo/LUKSO%20(LSP0%2C%20LSP6).pdf) |
+| December | Independent | [Rodeo Finance](https://www.rodeofinance.xyz/) | Yield | [📄](/audits/solo/Rodeo%20Finance%20(Camelot%20V3%20Strategy).pdf) |
