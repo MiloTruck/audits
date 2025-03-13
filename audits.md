@@ -54,7 +54,7 @@ A complete list of all my audits.
 | August | Renascence Labs | [Dinero](https://dinero.xyz/) | Liquid Staking | [📄](/audits/renascence/Redacted%20Finance%20(Branded%20LST%20v2).pdf) |
 | August | Trust Security | [Kayen](https://www.kayen.org/) | Token Launchpad | |
 | August | Trust Security | [dHedge](https://dhedge.org/) | Bridge | [📄](/audits/trust/dHedge.pdf) |
-| August | Trust Security | [Juice Finance](https://www.juice.finance/) | Leveraged Farming | [📄](/audits/trust/dHedge.pdf) |
+| August | Trust Security | [Juice Finance](https://www.juice.finance/) | Leveraged Farming | |
 | September | Spearbit | [Level Money](https://www.level.money/) | Stablecoin | [📄](/audits/spearbit/Level%20Money%20(Stablecoin%20LST).pdf) |
 | September | Renascence Labs | [Dinero](https://dinero.xyz/) | Liquid Staking | [📄](/audits/renascence/Dinero%20(Stargate%20LST).pdf) |
 | September | Renascence Labs | [Dinero](https://dinero.xyz/) | Liquid Staking | [📄](/audits/renascence/Dinero%20(Arbitrum%20LST).pdf) |
