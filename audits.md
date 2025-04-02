@@ -18,6 +18,8 @@ A complete list of all my audits.
 | February | Spearbit | [Presto](https://github.com/Presto-Labs) | Token Launchpad | |
 | February | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Pectra%20Upgrade).pdf) |
 | March | Spearbit | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction |  |
+| March | Spearbit | [Infrared Finance](https://infrared.finance/) | Liquid Staking | [📄](/audits/spearbit/Infrared.pdf) |
+| April | Spearbit | [Superform](https://www.superform.xyz/) | Yield |  |
 
 ## 2024
 
