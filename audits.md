@@ -20,6 +20,8 @@ A complete list of all my audits.
 | March | Spearbit | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction |  |
 | March | Spearbit | [Infrared Finance](https://infrared.finance/) | Liquid Staking | [📄](/audits/spearbit/Infrared.pdf) |
 | April | Spearbit | [Superform](https://www.superform.xyz/) | Yield |  |
+| April | Spearbit | [Euler](https://www.euler.finance/) | Lending | [📄](/audits/spearbit/EulerSwap.pdf) |
+| April | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Upgrade%2015).pdf) |
 
 ## 2024
 

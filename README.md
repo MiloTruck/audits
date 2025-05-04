@@ -21,19 +21,17 @@ A complete list of all audits can be found [here](/audits.md).
 
 | Protocol | Category |  Reports |
 | - | - | :- |
-| [Optimism](https://www.optimism.io/) | L2 | [[1]](/audits/solo/Optimism%20(DeputyPauseModule).pdf), [[2]](/audits/spearbit/Optimism%20(Upgrade%2013).pdf), [[3]](/audits/spearbit/Optimism%20(Pectra%20Upgrade).pdf) |
+| [Optimism](https://www.optimism.io/) | L2 | [[1]](/audits/solo/Optimism%20(DeputyPauseModule).pdf), [[2]](/audits/spearbit/Optimism%20(Upgrade%2013).pdf), [[3]](/audits/spearbit/Optimism%20(Pectra%20Upgrade).pdf), [[4]](/audits/spearbit/Optimism%20(Upgrade%2015).pdf) |
 | [Blast](https://blast.io/) | L2 | [[1]](/audits/spearbit/Blast%20L2.pdf) |
 | [Celo](https://celo.org/) | L2 | [[1]](/audits/spearbit/Celo.pdf) |
 | [Morpho](https://morpho.org/) | Lending | [[1]](/audits/spearbit/Morpho%20(Bundler%20V3).pdf), [[2]](/audits/spearbit/Morpho%20(Bundler3).pdf) |
+| [Euler](https://www.euler.finance/) | Lending | [[1]](/audits/spearbit/EulerSwap.pdf) |
 | [Collar](https://www.collarprotocol.xyz/) | Lending | [[1]](/audits/spearbit/Collar.pdf) |
 | [Karak](https://karak.network/) | Restaking | [[1]](/audits/renascence/Karak%20(Native%20Restaking).pdf) |
-| [Juice Finance](https://www.juice.finance/) | Leveraged Farming | [[1]](/audits/trust/dHedge.pdf) |
-| [Sorella](https://sorellalabs.xyz/) | DEX | [[1]](/audits/spearbit/Sorella%20(Angstrom).pdf) |
-| [Sushiswap](https://www.sushi.com/) | DEX | [[1]](/audits/spearbit/Sushiswap%20(RouteProcessor4).pdf), [[2]](/audits/spearbit/Sushiswap%20(RouteProcessor5).pdf) |
 | [Dinero](https://dinero.xyz/) | Liquid Staking | [[1]](/audits/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf), [[2]](/audits/renascence/Redacted%20Finance%20(Branded%20LST).pdf), [[3]](/audits/renascence/Redacted%20Finance%20(Branded%20LST%20v2).pdf), [[4]](/audits/renascence/Dinero%20(Stargate%20LST).pdf), [[5]](/audits/renascence/Dinero%20(Arbitrum%20LST).pdf), [[6]](/audits/renascence/Dinero%20(Super%20ETH).pdf), [[7]](/audits/renascence/Dinero%20(Staked%20S).pdf) |
+| [Sushiswap](https://www.sushi.com/) | DEX | [[1]](/audits/spearbit/Sushiswap%20(RouteProcessor4).pdf), [[2]](/audits/spearbit/Sushiswap%20(RouteProcessor5).pdf) |
+| [Sorella](https://sorellalabs.xyz/) | DEX | [[1]](/audits/spearbit/Sorella%20(Angstrom).pdf) |
 | [Level Money](https://www.level.money/) | Stablecoin | [[1]](/audits/spearbit/Level%20Money%20(Staking).pdf), [[2]](/audits/spearbit/Level%20Money%20(Stablecoin%20LST).pdf) |
-| [dHedge](https://dhedge.org/) | Bridge | [[1]](/audits/trust/dHedge.pdf) |
-| [Arcade.xyz](https://www.arcade.xyz/) | NFT Lending | [[1]](/audits/renascence/Arcade.xyz%20(V4).pdf), [[2]](/audits/renascence/Arcade.xyz%20(ARCD%20Staking).pdf) |
 | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [[1]](/audits/renascence/Rhinestone%20(Smart%20Sessions).pdf), [[2]](/audits/renascence/Rhinestone%20(Smart%20Sessions%20Update).pdf) |
 
 ## Contests
