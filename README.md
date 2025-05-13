@@ -33,7 +33,7 @@ A complete list of all audits can be found [here](/audits.md).
 | [Sushiswap](https://www.sushi.com/) | DEX | [[1]](/audits/spearbit/Sushiswap%20(RouteProcessor4).pdf), [[2]](/audits/spearbit/Sushiswap%20(RouteProcessor5).pdf) |
 | [Sorella](https://sorellalabs.xyz/) | DEX | [[1]](/audits/spearbit/Sorella%20(Angstrom).pdf) |
 | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [[1]](/audits/renascence/Rhinestone%20(Smart%20Sessions).pdf), [[2]](/audits/renascence/Rhinestone%20(Smart%20Sessions%20Update).pdf) |
-| [Superform](https://www.superform.xyz/) | Yield | [📄](/audits/spearbit/Superform%20(V2%20Core).pdf) |
+| [Superform](https://www.superform.xyz/) | Yield | [[1]](/audits/spearbit/Superform%20(V2%20Core).pdf) |
 | [Level Money](https://www.level.money/) | Stablecoin | [[1]](/audits/spearbit/Level%20Money%20(Staking).pdf), [[2]](/audits/spearbit/Level%20Money%20(Stablecoin%20LST).pdf) |
 
 ## Contests
