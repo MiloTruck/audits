@@ -19,7 +19,7 @@ A complete list of all my audits.
 | February | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Pectra%20Upgrade).pdf) |
 | March | Spearbit | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction |  |
 | March | Spearbit | [Infrared](https://infrared.finance/) | Liquid Staking | [📄](/audits/spearbit/Infrared%20(v1.3).pdf) |
-| April | Spearbit | [Superform](https://www.superform.xyz/) | Yield |  |
+| April | Spearbit | [Superform](https://www.superform.xyz/) | Yield | [📄](/audits/spearbit/Superform%20(V2%20Core).pdf) |
 | April | Spearbit | [Euler](https://www.euler.finance/) | Lending | [📄](/audits/spearbit/EulerSwap.pdf) |
 | April | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Upgrade%2015).pdf) |
 | May | Spearbit | [Infrared](https://infrared.finance/) | Liquid Staking | [📄](/audits/spearbit/Infrared%20(v1.5).pdf) |
