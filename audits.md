@@ -76,7 +76,7 @@ A complete list of all my audits.
 | December | Spearbit | [Flood](https://www.flood.bid/) | DEX | [📄](/audits/spearbit/Flood.pdf) |
 | December | Renascence Labs | [Dinero](https://dinero.xyz/) | Liquid Staking | [📄](/audits/renascence/Dinero%20(Staked%20S).pdf) |
 | December | Renascence Labs | [Rhinestone](https://www.rhinestone.wtf/) | Account Abstraction | [📄](/audits/renascence/Rhinestone%20(Smart%20Sessions%20Update).pdf) |
-| December | Independent | [Optimism](https://www.optimism.io/) | Account Abstraction | [📄](/audits/solo/Optimism%20(DeputyPauseModule).pdf) |
+| December | Independent | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/solo/Optimism%20(DeputyPauseModule).pdf) |
 | December | Independent | [Optimism](https://www.optimism.io/) | L2 | |
 
 ## 2023
