@@ -28,7 +28,7 @@ A complete list of all audits can be found [here](/audits.md).
 | [Euler](https://www.euler.finance/) | Lending | [[1]](/audits/spearbit/EulerSwap.pdf) |
 | [Collar](https://www.collarprotocol.xyz/) | Lending | [[1]](/audits/spearbit/Collar.pdf) |
 | [Karak](https://karak.network/) | Restaking | [[1]](/audits/renascence/Karak%20(Native%20Restaking).pdf) |
-| [Infrared Finance](https://infrared.finance/) | Liquid Staking | [[1]](/audits/spearbit/Infrared%20(v1.3).pdf), [[2]](/audits/spearbit/Infrared%20(v1.5).pdf) |
+| [Infrared](https://infrared.finance/) | Liquid Staking | [[1]](/audits/spearbit/Infrared%20(v1.3).pdf), [[2]](/audits/spearbit/Infrared%20(v1.5).pdf) |
 | [Dinero](https://dinero.xyz/) | Liquid Staking | [[1]](/audits/renascence/Redacted%20Finance%20(Institutional%20Pirex).pdf), [[2]](/audits/renascence/Redacted%20Finance%20(Branded%20LST).pdf), [[3]](/audits/renascence/Redacted%20Finance%20(Branded%20LST%20v2).pdf), [[4]](/audits/renascence/Dinero%20(Stargate%20LST).pdf), [[5]](/audits/renascence/Dinero%20(Arbitrum%20LST).pdf), [[6]](/audits/renascence/Dinero%20(Super%20ETH).pdf), [[7]](/audits/renascence/Dinero%20(Staked%20S).pdf) |
 | [Sushiswap](https://www.sushi.com/) | DEX | [[1]](/audits/spearbit/Sushiswap%20(RouteProcessor4).pdf), [[2]](/audits/spearbit/Sushiswap%20(RouteProcessor5).pdf) |
 | [Sorella](https://sorellalabs.xyz/) | DEX | [[1]](/audits/spearbit/Sorella%20(Angstrom).pdf) |
