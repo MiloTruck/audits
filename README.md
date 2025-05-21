@@ -21,7 +21,7 @@ A complete list of all audits can be found [here](/audits.md).
 
 | Protocol | Category |  Reports |
 | - | - | :- |
-| [Optimism](https://www.optimism.io/) | L2 | [[1]](/audits/solo/Optimism%20(DeputyPauseModule).pdf), [[2]](/audits/spearbit/Optimism%20(Upgrade%2013).pdf), [[3]](/audits/spearbit/Optimism%20(Pectra%20Upgrade).pdf), [[4]](/audits/spearbit/Optimism%20(Upgrade%2015).pdf) |
+| [Optimism](https://www.optimism.io/) | L2 | [[1]](/audits/solo/Optimism%20(DeputyPauseModule).pdf), [[2]](/audits/spearbit/Optimism%20(Upgrade%2013).pdf), [[3]](/audits/spearbit/Optimism%20(Pectra%20Upgrade).pdf), [[4]](/audits/spearbit/Optimism%20(Upgrade%2015).pdf), [[5]](/audits/spearbit/Optimism%20(Upgrade%2016).pdf) |
 | [Blast](https://blast.io/) | L2 | [[1]](/audits/spearbit/Blast%20L2.pdf) |
 | [Celo](https://celo.org/) | L2 | [[1]](/audits/spearbit/Celo.pdf) |
 | [Morpho](https://morpho.org/) | Lending | [[1]](/audits/spearbit/Morpho%20(Bundler%20V3).pdf), [[2]](/audits/spearbit/Morpho%20(Bundler3).pdf) |
