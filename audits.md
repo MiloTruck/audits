@@ -23,6 +23,7 @@ A complete list of all my audits.
 | April | Spearbit | [Euler](https://www.euler.finance/) | Lending | [📄](/audits/spearbit/EulerSwap.pdf) |
 | April | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Upgrade%2015).pdf) |
 | May | Spearbit | [Infrared](https://infrared.finance/) | Liquid Staking | [📄](/audits/spearbit/Infrared%20(v1.5).pdf) |
+| May | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Upgrade%2016).pdf) |
 
 ## 2024
 
