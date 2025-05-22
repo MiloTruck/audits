@@ -12,7 +12,7 @@ A complete list of all my audits.
 | January | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Upgrade%2013).pdf) |
 | January | Trust Security | [Tea](https://tea.xyz/) | L2 | |
 | February | Independent | [Trustswap](https://trustswap.org/) | Staking, Token Vesting | |
-| February | Independent | [Celo](https://celo.org/) | L2 | [📄](/audits/spearbit/Celo.pdf) |
+| February | Independent | [Celo](https://celo.org/) | L2 | [📄](/audits/solo/Celo.pdf) |
 | February | Spearbit | [Morpho](https://morpho.org/) | Lending | [📄](/audits/spearbit/Morpho%20(Bundler3).pdf) |
 | February | Independent | [Collar](https://www.collarprotocol.xyz/) | Lending | |
 | February | Spearbit | [Presto](https://github.com/Presto-Labs) | Token Launchpad | |
@@ -23,6 +23,7 @@ A complete list of all my audits.
 | April | Spearbit | [Euler](https://www.euler.finance/) | Lending | [📄](/audits/spearbit/EulerSwap.pdf) |
 | April | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Upgrade%2015).pdf) |
 | May | Spearbit | [Infrared](https://infrared.finance/) | Liquid Staking | [📄](/audits/spearbit/Infrared%20(v1.5).pdf) |
+| May | Independent | [Celo](https://celo.org/) | L2 | [📄](/audits/solo/Celo%20(AutoWrap).pdf) |
 | May | Spearbit | [Optimism](https://www.optimism.io/) | L2 | [📄](/audits/spearbit/Optimism%20(Upgrade%2016).pdf) |
 
 ## 2024
